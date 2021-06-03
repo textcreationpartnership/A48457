@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A stop to the course of separation, or, The separation of the new separatists from the parish churches condemned by a sober answer to the chief pleas for this disordrely practise : wherein is discovered how contrary it is, 1. To the Holy Scriptures, 2. To the reason of the thing, 3. To the judgement of the old nonconformists, 4. To themselves heretofore.</title>
+            <author>Lamb, Thomas, d. 1686.</author>
+         </titleStmt>
+         <extent>Approx. 151 KB of XML-encoded text transcribed from 87 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48457</idno><idno type="EEBO-CITATION">11859626</idno>
+  <idno type="VID">50003</idno>
+  <idno type="EEBO-PROQUEST">2240889192</idno>
+  
+            <idno type="STC">Wing L211</idno>
+            <idno type="STC">ESTC R17031</idno>
+            <idno type="OCLC">11859626</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48457)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50003)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 499:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A stop to the course of separation, or, The separation of the new separatists from the parish churches condemned by a sober answer to the chief pleas for this disordrely practise : wherein is discovered how contrary it is, 1. To the Holy Scriptures, 2. To the reason of the thing, 3. To the judgement of the old nonconformists, 4. To themselves heretofore.</title>
+                  <author>Lamb, Thomas, d. 1686.</author>
+               </titleStmt>
+               <extent>[8], 160 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Walter Kettilby,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: prelim. p. [8].</note>
+                  <note>Reproduction of original in Bristol Public Library, Bristol, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50003:1"/>
+            <p>
+               <hi>A Stop to the course of Separation:</hi>
+            </p>
+            <p>Or, THE SEPARATION OF THE New Separatists FROM THE PARISH CHURCHES CONDEMNED, By a sober Answer to the chief Pleas for this disordrely practise.</p>
+            <p>Wherein is discovered how <hi>contrary it is,</hi>
+               <list>
+                  <item>1. To the <hi>Holy Scriptures.</hi>
+                  </item>
+                  <item>2. To the Reason of the thing.</item>
+                  <item>3. To the judgement of the <hi>old Non<g ref="char:EOLhyphen"/>conformists.</hi>
+                  </item>
+                  <item>4. To Themselves <hi>heretofore.</hi>
+                  </item>
+               </list>
+            </p>
+            <q>
+               <p>Let us follow after the things which make for peace, and the things wherewith one may edifie another.</p>
+               <p>Happy is he that condemneth not himself in that thing which he alloweth,</p>
+               <bibl>
+                  <hi>Rom. 14. v 19, 22.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Walter Kettilby,</hi> at the Bishops-head in S. <hi>Pauls</hi> Church-yard. 1672.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:50003:2"/>
+            <pb facs="tcp:50003:2"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>Christian Reader.</salute>
+            </opener>
+            <p>IT is not a vain humor of scrib<g ref="char:EOLhyphen"/>ling, nor an affectation of be<g ref="char:EOLhyphen"/>ing an Author, which creates thee the trouble of these Papers, but that great sense I have of the ma<g ref="char:EOLhyphen"/>nifold evils of Separation, which are as destructive to the Church of Christ, as tearing one member from another is to the natural body. And since the great Apo<g ref="char:EOLhyphen"/>stle of the Gentiles commands us to have such a fellow-feeling of the sufferings of the Christian
+<pb facs="tcp:50003:3"/>Church, the Mystical Body of Christ, whereof we are all mem<g ref="char:EOLhyphen"/>bers, as the members of the na<g ref="char:EOLhyphen"/>tural body have of each others suf<g ref="char:EOLhyphen"/>ferings, I should fear whether I were a living member of Christs body, had I not some smart re<g ref="char:EOLhyphen"/>sentments of these rents and divi<g ref="char:EOLhyphen"/>sions which are daily made in it. And since there are those who are very busie in justifying and widen<g ref="char:EOLhyphen"/>ing these divisions, surely it can be no fault to oppose my self to that growing evil; an attempt, which if it want success, yet may merit a fa<g ref="char:EOLhyphen"/>vourable censure. It is well known how our ancient Nonconformists, though they scrupled the use of some Ceremonies then, and still en<g ref="char:EOLhyphen"/>joyned and practised in our Church,
+<pb facs="tcp:50003:3"/>yet did both by their writings and practise, condemn Separation from our Parish Churches: This hath been justly urged against the Se<g ref="char:EOLhyphen"/>paration of some among us, who still pretend to be the Successors of those <hi>Peaceable</hi> and <hi>Confor<g ref="char:EOLhyphen"/>mable dissenters,</hi> and take it very ill to be ranked among Brownists and Independents, be<g ref="char:EOLhyphen"/>cause forsooth they disown their principles, though they espouse their practises.</p>
+            <p>And therefore to vindicate themselves in this point, and that they might not be thought Apo<g ref="char:EOLhyphen"/>states from those principles they have so vehemently contended and fought for, and that they may a<g ref="char:EOLhyphen"/>void the force of those killing Ar<g ref="char:EOLhyphen"/>guments
+<pb facs="tcp:50003:4"/>the ancient Puritans urg<g ref="char:EOLhyphen"/>ed against the Brownists of those days, they have endeavoured to find out a vast difference between the state of the Church now, and what it was in those days.</p>
+            <p>The design therefore of these Papers is to consider all those pretended differences between the present state of our Church, and what it was in the days of the old Nonconformists; and if it appear there is no material difference (of which I leave the Reader to be judge) it must then necessarily fol<g ref="char:EOLhyphen"/>low by their own Concessions, that they are as down-right Schis<g ref="char:EOLhyphen"/>maticks, as the ancient Brownists and our present Independents are.</p>
+            <p>This I have endeavoured to ex<g ref="char:EOLhyphen"/>amine
+<pb facs="tcp:50003:4"/>with Christian candor and impartiality, and without any other sharpness of stile, than what the sharpness of an Argument gives it. I beseech thee Reader to consider it with all due candor and impartiality, and joyn thy prayers to mine, that God would at length restore peace and unity to his Church.</p>
+            <closer>
+               <salute>Farewel.</salute>
+            </closer>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:50003:5"/>
+            <head>ERRATA.</head>
+            <p>PAge 34. line 24. for <hi>Reformation,</hi> read <hi>Restauration,</hi> p. 41. l. 10. for <hi>that,</hi> read <hi>thus,</hi> p. 57. l. <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>. for <hi>Marks,</hi> r. <hi>Mark,</hi> p. 62. l. 5. for <hi>A true Religion,</hi> r. <hi>The true Religion</hi> p. 80. l. 17. for <hi>as,</hi> r. <hi>at,</hi> p. 101. l. 23. for <hi>by,</hi> r. <hi>to</hi> and in the next line for <hi>to,</hi> r. <hi>by,</hi> p. 127. l. 10. for <hi>mentable,</hi> r. <hi>lamentable,</hi> p. 155. l. 18. for <hi>Art,</hi> r. <hi>Act</hi> p. 157. l. 11. for <hi>which,</hi> r. <hi>when,</hi> p. 160. l. 13. for <hi>to</hi> r. <hi>with.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:50003:6"/>
+            <head>A Sober Answer TO THE MAIN ARGUMENTS Of the New Separatists from the Parish Churches, to stop the Course of their destructive Separation.</head>
+            <div n="1" type="argument">
+               <head>
+                  <hi>Argument I.</hi> Such Ministers as the Scriptures command us to Avoid, and have No company with, nor so much as Eat with, are not to be joyn'd with in Church Communion as our Pastors; But those that by subscription, and open declaration to the
+<pb n="2" facs="tcp:50003:7"/>Church in their Ministry, do absolve all the persons in the Three Kingdoms from the ob<g ref="char:EOLhyphen"/>ligation of Reformation, in case of very great Church<g ref="char:EOLhyphen"/>corruptions, and justifie them all from the guilt of perjury, are such. <hi>Ergo.</hi>
+               </head>
+               <p>BY those Scripture Precepts to Turn from, <label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>1</label> Avoid, and Not eat with the wicked; 'Tis manifest,<note place="margin">
+                     <hi>Grotius</hi> Right of highest power.</note> saith <hi>Grotius,</hi> No act is signified greater than a private one; For what is the Church here bid to do, but what a Disciple doth, when he deserteth an Evil Doctor; or honest men do, when they renounce the friendship or society of their Companions fallen into wickedness.</p>
+               <p>Doctor <hi>Hammond</hi> also interpret<g ref="char:EOLhyphen"/>eth the Apostles prohibition of the
+<pb n="3" facs="tcp:50003:7"/>
+                  <hi>Corinthians</hi> to eat with wicked Church-Members,<note place="margin">Annot. upon 1 Cor. 5.11.</note> to be meant of intimate familiarity with them; so doth the English Annotators.</p>
+               <p>But they will say, <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> If a man may not hold Civil Communion with such, much less may he hold Church Communion.</p>
+               <p>This Inference the Separatists made in <hi>Calvin</hi>'s dayes. <label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>
+                  </label> Take it in his own words,<note place="margin">Calvins Iastit. p. <hi>343.</hi>
+                  </note>
+                  <q>Here (saith he) they cry out, if it be not lawful to eat common bread, how may it be lawful to eat the bread of the Lord. To which he answereth. Whereas they think it Sacriledge to be partakers of the Lords bread with them, speak<g ref="char:EOLhyphen"/>ing of wicked men, they are therein much more rigorous than <hi>Paul;</hi> for where he exhorteth us to a holy and pure partaking, he requireth not that one should exa<g ref="char:EOLhyphen"/>mine another, or every one the whole Church, but each man
+<pb n="3" facs="tcp:50003:8"/>himself; whereby he sheweth that the company of wicked men at the Lords Table do not hurt the godly; He that eateth unwor<g ref="char:EOLhyphen"/>thily, eateth judgment to <hi>himself,</hi> not to <hi>others.</hi>
+                  </q>
+               </p>
+               <p>Then again he saith,<note place="margin">Cal. Inst. <gap reason="illegible: faint" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 4. p. 343.</note>
+                  <q>It is not in the power of private persons to determine the Communicants at the Lords Table; they have not the judgment of office.</q>
+               </p>
+               <p>Again, <q>I do indeed, saith he, not deny, That it is the doing of a godly man, to withdraw himself from all private company of evil men, to have no willing familiari<g ref="char:EOLhyphen"/>ty with them. But it is one thing to flee the company of Evil men, and another thing, for hatred of them, to flee the communion of the Church.</q>
+               </p>
+               <p>To be short, since it is in the power of private persons, to choose who they will ordinarily, and fre<g ref="char:EOLhyphen"/>quently converse with at their own
+<pb n="5" facs="tcp:50003:8"/>Table and in common Conversati<g ref="char:EOLhyphen"/>on, but not at the Lords: and 2<seg rend="sup">ly</seg> That doing their own duty, they are in no danger of being hurt by the wickedness of Communicants at the Lords Table: and 3<seg rend="sup">ly</seg> that ex<g ref="char:EOLhyphen"/>perience proveth familiar Conver<g ref="char:EOLhyphen"/>sation with wicked men to be ex<g ref="char:EOLhyphen"/>treme dangerous:<note place="margin">Psal. 106.35.</note> it followeth that men may lawfully hold Church-Communion, where they may not hold Civil.</p>
+               <p n="2">2. But if the Scripture precepts, to Withdraw from, Avoid, and not Eat with the Wicked, may possibly be extended to Church-Commu<g ref="char:EOLhyphen"/>nion, which I do believe; Then <hi>suo ordine,</hi> to every one in their own order and place; for God is the God of order, and not of confu<g ref="char:EOLhyphen"/>sion. As they respect the Governors of the Church, they call upon them for the inflicting of Church Cen<g ref="char:EOLhyphen"/>sures: As they respect the People, they put them upon minding their
+<pb n="6" facs="tcp:50003:9"/>Officers of their duty, and call for their own concurrence with them therein; but not to separation, if that be neglected.</p>
+               <p>The brethren should distinguish between an <hi>Orderly Motion</hi> of the Church Members in their several capacities to the putting bad Mini<g ref="char:EOLhyphen"/>sters and People out of the Church: And a DISORDERLY COMMOTION by the irregular withdrawing and separating of a Party FROM the Church. Perhaps the first may be inferr'd from those prohibitions, to Eat with the wicked; but the last, which is the practical Inference of the Brethren, is absurd, because it cannot be done without culpable Schism, and threatning the ruin of the whole, by cutting the Church into shreds, and dividing the house of Christ within it self, which when<g ref="char:EOLhyphen"/>soever it falleth out,<note place="margin">Matth. 12.25.</note> Christ saith, That house cannot stand.</p>
+               <p n="3">3. If it were no sin to hold Com<g ref="char:EOLhyphen"/>munion
+<pb n="7" facs="tcp:50003:9"/>with Priests, sons of <hi>Belial,</hi> that knew not the Lord; then sure<g ref="char:EOLhyphen"/>ly it is no sin to maintain commu<g ref="char:EOLhyphen"/>nion with Pastors, though guilty of as bad crimes as those mentioned in the Argument of the Brethren: But it was no sin to hold Commu<g ref="char:EOLhyphen"/>nion with <hi>Hophni,</hi> and <hi>Phineas,</hi> the two Sons of <hi>Eli,</hi> being Priests, not<g ref="char:EOLhyphen"/>withstanding the enormous wicked<g ref="char:EOLhyphen"/>ness of those men, we find no Pre<g ref="char:EOLhyphen"/>cept to the People to disown Church Communion with them, so long as they stood legally possest of the Priests Office; but on the contrary, the People that took the scandal, and began to abhor the Ordinances for their sake, are called transgres<g ref="char:EOLhyphen"/>sors, 1 <hi>Sam.</hi> 2.24.</p>
+               <p>The wicked Scribes and Phari<g ref="char:EOLhyphen"/>sees, though our Saviour told the People they were covetous Hypo<g ref="char:EOLhyphen"/>crites,<note place="margin">Matth. 23.23, 24, 25, 33.</note> blind Guides, superstitious, making void the Commandments of God by their own Traditions; such
+<pb n="8" facs="tcp:50003:10"/>as without repentance could not e<g ref="char:EOLhyphen"/>scape the damnation of hell: Yet for that they sat in <hi>Moses</hi> Chair teaching the Law, Christ not only alloweth,<note place="margin">Matth. 23.<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> but commandeth the Peo<g ref="char:EOLhyphen"/>ple to hear them. And Mr. <hi>Nor<g ref="char:EOLhyphen"/>ton</hi> of <hi>New-England</hi> teacheth, That his Precept to hear them, import<g ref="char:EOLhyphen"/>eth full Church Communion with them. It is therefore no sin, but a duty (as the case may be) to hold Communion with Ministers guilty of as bad crimes as the Brethren in<g ref="char:EOLhyphen"/>sinuate the Parish Ministers to be guilty of.</p>
+               <p>Personal crimes in allowed pub<g ref="char:EOLhyphen"/>lick Ministers will not justifie dis<g ref="char:EOLhyphen"/>owning them in Church Admini<g ref="char:EOLhyphen"/>strations; and all that is affirmed in the Brethrens Argument against the Publick Ministers, are but personal crimes: So that though all were true which is alledged against them, it would not thence follow, that it were a sin to joyn in Church com<g ref="char:EOLhyphen"/>munion
+<pb n="9" facs="tcp:50003:10"/>with them, as Pastors. To this purpose <hi>Calvin.</hi>
+               </p>
+               <p>
+                  <q>Nothing is added or diminish<g ref="char:EOLhyphen"/>ed by the worthiness or unworthi<g ref="char:EOLhyphen"/>ness of him by whom the Sacra<g ref="char:EOLhyphen"/>ments are delivered;<note place="margin">Calv. In<g ref="char:EOLhyphen"/>stit. lib. 4. p. 439.</note> and even as among men, if a Letter be sent, so the hand and seal be known, it maketh no matter what manner of man be the Car<g ref="char:EOLhyphen"/>rier. Even so it ought to suffice us, to know the hand and seal of the Lord in his Sacraments, by what Carrier soever they be brought. Hereby, saith he, the Error of the Donatists is well confuted, which measured the force and value of the Sacrament, by the worthiness of the Mini<g ref="char:EOLhyphen"/>nisters. It nothing hindered the Jews to be circumcised of un<g ref="char:EOLhyphen"/>clean Priests or Apostates.</q>
+               </p>
+               <p n="4">4. The grievous crimes charged in the Minor, upon One and All the Publick Ministers, are onely confi<g ref="char:EOLhyphen"/>dently
+<pb n="10" facs="tcp:50003:11"/>asserted; not proved, nor any thing said in order thereunto; there<g ref="char:EOLhyphen"/>fore may justly be neglected.</p>
+               <p n="5">5. If we should never have com<g ref="char:EOLhyphen"/>munions with Pastors, that one par<g ref="char:EOLhyphen"/>ty or other have not charged with the like crimes, we should never have held communion with any in <hi>England</hi> for many years. I am griev<g ref="char:EOLhyphen"/>ed to speak it: For as the present Conformists, for abjuring the Cove<g ref="char:EOLhyphen"/>nant, are now called perjured per<g ref="char:EOLhyphen"/>sons by the offended Brethren, be<g ref="char:EOLhyphen"/>cause they renounced the Cove<g ref="char:EOLhyphen"/>nant: So were the Non-Confor<g ref="char:EOLhyphen"/>mists themselves called perjured persons by the Conformists hereto<g ref="char:EOLhyphen"/>fore, because they took the Solemn League and Covenant, being in their judgments cross to divers Oaths formerly taken by multitudes of themselves, particularly the Oaths of Allegeance, Supremacy, and Ca<g ref="char:EOLhyphen"/>nonical Obedience.</p>
+               <p n="6">6. Very wise and conscientious
+<pb n="11" facs="tcp:50003:11"/>men, think the Subscriptions and o<g ref="char:EOLhyphen"/>pen Declarations the Objection speaketh of, doth not hinder the use of any <hi>Moral</hi> Endeavours of Reformation <hi>in</hi> the Government, but only <hi>seditious</hi> Endeavours of Extirpation <hi>of</hi> the Government now establisht by law. And if the So<g ref="char:EOLhyphen"/>lemn League and Covenant, here<g ref="char:EOLhyphen"/>tofore taken, bound men to use any <hi>such</hi> Endeavours, to destroy the pub<g ref="char:EOLhyphen"/>lick Establishment then in being, or now re-established, it ought to be repented of, and not stood to, ex<g ref="char:EOLhyphen"/>cept Sedition and Rebellion be no sin. The Brethren should distin<g ref="char:EOLhyphen"/>guish upon the obligation from the Solemn League and Covenant; 1. As it contain'd a new obligation to do some things which we are all bound to, if we had never taken it; namely, in our places and callings, to endeavour Church-Reformation, according to the word of God. Now, in this sense, no body is en<g ref="char:EOLhyphen"/>joyned
+<pb n="12" facs="tcp:50003:12"/>to declare against it, which the Objectors do not consider. But only in the second place, as it con<g ref="char:EOLhyphen"/>taineth an obligation in our Places &amp; Callings, and with our lives and for<g ref="char:EOLhyphen"/>tunes to endeavour the extirpation of Church-government by Arch-Bishops, and Bishops, &amp;c. and by this means to overthrow our fixed Ecclesiastical State; to root out the Government established by law, which
+<list>
+                     <item>1. The King took his Oath to maintain, at his Coronation;</item>
+                     <item>2. The Government confirmed by <hi>Magna Charta,</hi> and by thirty Parli<g ref="char:EOLhyphen"/>ament;</item>
+                     <item>3. And that enjoyned and taken without the Kings consent: for the Covenant saith not we shall en<g ref="char:EOLhyphen"/>deavour to root out Prelacy [If the King will give leave]: Nay</item>
+                     <item>4. Con<g ref="char:EOLhyphen"/>trary to the Kings Proclamation, <hi>October</hi> 9. 1643 wherein he ad<g ref="char:EOLhyphen"/>monisheth his Subjects to beware of it, and prohibiteth them to take it upon their Oaths of Allegeance,
+<pb n="13" facs="tcp:50003:12"/>saying, that whatever the pretences of it were, it was in truth nothing but a traiterous seditious Combina<g ref="char:EOLhyphen"/>tion against him, and the establisht Religion, and Laws of the King<g ref="char:EOLhyphen"/>dom:</item>
+                     <item>5. A Government which <hi>Grotius</hi> telleth us is repugnant to no Law Divine,<note place="margin">
+                           <hi>Grotius</hi> Right of highest power.</note> but it is approved by Divine Law, That the Universal Church hath received it, That this Prelacy hath its pattern in the Law Natural and Mosaical, and had its beginning in the Apostolical times; and that the history of all times pro<g ref="char:EOLhyphen"/>claimeth the many commodities that have come to the Church by it: And which wise <hi>Fregivil,</hi> a man of a deep head, as Bishop <hi>Hall</hi> cal<g ref="char:EOLhyphen"/>leth him, speaking particularly of the English Prelacy, saith, it is grounded on Gods word; and that in such a mighty Church, as the Church of <hi>England</hi> is, the STATE of the Church ought to be preser<g ref="char:EOLhyphen"/>ved; for Equality, he saith, will be
+<pb n="14" facs="tcp:50003:13"/>hurtful to the State, and in time breed confusion.</item>
+                  </list> A Government which <hi>Calvin</hi> commendeth to the King of <hi>Poland,</hi>
+                  <note place="margin">Calvin's Epist. ad Reg. Pol. p. <hi>140, 141.</hi>
+                  </note> that for order sake in so great a Kingdom, he adviseth the King to establish Bishops in e<g ref="char:EOLhyphen"/>very Province, and over them an Arch-Bishop and Primate.</p>
+               <p>
+                  <hi>Zanchy</hi> saith,<note place="margin">Zanch. Thes. de vera Re<g ref="char:EOLhyphen"/>formanda<g ref="char:EOLhyphen"/>rum Eccle<g ref="char:EOLhyphen"/>arum ra<g ref="char:EOLhyphen"/>tio<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e.</note>
+                  <q>He that will re<g ref="char:EOLhyphen"/>ceive and follow the use and the o<g ref="char:EOLhyphen"/>pinion of the Universal Church, in all times and places unto this age; for a certain Interpreter of Gods word will easily understand, that the several degrees of Priests and Bishops, in the Ecclesiastical Go<g ref="char:EOLhyphen"/>vernment, are, and ever were, according to Gods Word: there<g ref="char:EOLhyphen"/>fore where they stand still, they must not be abolished; and where the contrariety of times hath abo<g ref="char:EOLhyphen"/>lished them, &amp; not suffered them, they must be set up again.</q> And that with <hi>Calvin</hi> he saith, <q>They are worthy of any execration
+<pb n="15" facs="tcp:50003:13"/>that will not submit themselves to that Hierarchy that submitteth it self to the Lord Jesus.</q>
+               </p>
+               <p>Again, this is his Protestation, <q>That before God, and in his con<g ref="char:EOLhyphen"/>science, he held them all for no better than Schismaticks, that set this down, as a part of the Refor<g ref="char:EOLhyphen"/>mation of Churches, to have no Bishops, that have any Eminence of degree and Authority, above their true fellow Priests, where they may well be had.</q>
+               </p>
+               <p>
+                  <note place="margin">Buckler of Faith up<g ref="char:EOLhyphen"/>on the At<g ref="char:EOLhyphen"/>ticle of the French Confessi<g ref="char:EOLhyphen"/>on.</note>
+                  <hi>Du Moulin</hi> also telleth us: <q>That the Superioriry of the English Bishops hath been approved by the most worthy Pastors of the French Churches. That it was necessity, not any Theological de<g ref="char:EOLhyphen"/>cision, made <hi>France</hi> a Church without Bishops.</q>
+               </p>
+               <p>
+                  <hi>Martin Bucer,</hi>
+                  <note place="margin">Bucer Tract. de Reforman<g ref="char:EOLhyphen"/>dâ Eccles. Tem. <hi>2.</hi>
+                  </note> for the weal of the Church of <hi>England,</hi> he being to assist in the work of Reformati<g ref="char:EOLhyphen"/>on, <q>We must endeavour, saith
+<pb n="16" facs="tcp:50003:14"/>he, that all the manner and di<g ref="char:EOLhyphen"/>stribution of Ecclesiastical Go<g ref="char:EOLhyphen"/>vernment, which the Canons prescribed to Bishops and Metro<g ref="char:EOLhyphen"/>politanes, be restored and main<g ref="char:EOLhyphen"/>tained.</q>
+               </p>
+               <p>
+                  <note place="margin">
+                     <hi>Beza</hi>'s E<g ref="char:EOLhyphen"/>pistle to the Bre<g ref="char:EOLhyphen"/>thren of the Eng<g ref="char:EOLhyphen"/>lish Church.</note>Likewise <hi>Beza</hi> declared his dis<g ref="char:EOLhyphen"/>like of those that resisted Episco<g ref="char:EOLhyphen"/>pal power, where it was establish<g ref="char:EOLhyphen"/>ed. He exhorteth some dissenting Brethren in <hi>England,</hi> That leaving all bitterness they should obey the Queen, and all the Prelates with a free heart; and called it self-con<g ref="char:EOLhyphen"/>ceited pride in them that rejected their Authority.</p>
+               <p>S. <hi>Jerome</hi> telleth us, <q>That it was decreed all the world over, that One chosen from among the Presbyters should be <hi>set o<g ref="char:EOLhyphen"/>ver the Rest,</hi> to whom <hi>all</hi> the Care of the Church should per<g ref="char:EOLhyphen"/>tain.</q> Further saith, <q>The Chur<g ref="char:EOLhyphen"/>ches safety consisteth in the digni<g ref="char:EOLhyphen"/>ty of the chief Priest, that is, the
+<pb n="17" facs="tcp:50003:14"/>Bishop, to whom if there be not given a SUPERIOR POVVER o<g ref="char:EOLhyphen"/>ver all the Rest, there will be made so many Schisms in the Church, as there be Priests.</q> It seemeth then in his time, that Ex<g ref="char:EOLhyphen"/>perience had prompted all Christian Nations to set up Prelacy in the Church: and that not only a Pre<g ref="char:EOLhyphen"/>lacy of Place, but <hi>Power,</hi> as that which was for the good of the Church. And <hi>Grotius</hi> telleth us,<note place="margin">Right of highest power.</note> that whosoever shall affirm Episco<g ref="char:EOLhyphen"/>pal Eminence to be unlawful, charge the Church in all Ages, not onely with folly, but impiety.</p>
+               <p>Mr. <hi>Baxter</hi> telleth us also,<note place="margin">
+                     <hi>Baxter</hi> of Church Govern<g ref="char:EOLhyphen"/>ment, p. 300.</note>
+                  <q>That Episcopacy was no such upstart thing, nor defended by such con<g ref="char:EOLhyphen"/>temptible reasons, as that the Con<g ref="char:EOLhyphen"/>troversie is like to die with this Age; undoubtedly there will be a learned and godly party for it while the world endureth.</q> And in another place <q>That some of the
+<pb n="18" facs="tcp:50003:15"/>Prelates were venerable for their Admirable learning and piety, and that Prelacy had not a few mean persons to adorn and credit it.</q>
+               </p>
+               <p>What a prodigious error then, and evil was it (all these things con<g ref="char:EOLhyphen"/>sidered,) to enter into a solemn League and Covenant, without any more ado, (not so much as consult<g ref="char:EOLhyphen"/>ing the Bishops) to extirpate the very Government it self, to intro<g ref="char:EOLhyphen"/>duce we knew not what in the room, as experience quickly pro<g ref="char:EOLhyphen"/>ved.</p>
+               <p>Three things are necessary,<note place="margin">Bisho <gap reason="illegible: faint" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> p. <gap reason="illegible: faint" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</note> saith learned Bishop <hi>Bramhall,</hi> to make a publick Reformation lawful, <hi>Just Grounds, Due Moderation, Sufficient Authority.</hi> There may be Just Grounds without Sufficient Autho<g ref="char:EOLhyphen"/>rity, and Sufficient Authority with<g ref="char:EOLhyphen"/>out Just Grounds; and both Suffi<g ref="char:EOLhyphen"/>cient Authority, and Just Grounds, without Due Moderation. But be saith, they are all necessary to con<g ref="char:EOLhyphen"/>cur
+<pb n="19" facs="tcp:50003:15"/>to make a publick Reformation <hi>lawful:</hi> But the Reformation de<g ref="char:EOLhyphen"/>signed by the Scotch Covenant, to root out Prelacy, had none of all these three Ingredients of a lawful Reformation in it; neither Just Grounds, Due Moderation, nor Lawful Authority; and therefore the Covenant to effect such a Re<g ref="char:EOLhyphen"/>formation must needs be unlaw<g ref="char:EOLhyphen"/>ful.</p>
+               <p>To sum up all then, 1. Here was no <hi>Just Grounds</hi> to take such a Co<g ref="char:EOLhyphen"/>venant, because for National Chur<g ref="char:EOLhyphen"/>ches, where are Kings at head of them, it is not only a lawful, but the <hi>best</hi> Government, in the judgment of the wisell and greatest Students of Divinity in the whole world.</p>
+               <p n="2">2. As there was no good grounds to take it, so there was no <hi>Due Moderation</hi> in the taking of it; for that the Bishops, whose interest both for themselves and the Church was deeply concern'd, were never
+<pb n="20" facs="tcp:50003:16"/>call'd to a free debate upon it; so that it was <hi>unjust, uncharitable,</hi> and <hi>disingenuous.</hi>
+               </p>
+               <p n="3">3. There was no <hi>Sufficient Au<g ref="char:EOLhyphen"/>thority</hi> to <hi>impose it,</hi>
+                  <note place="margin">Kings De<g ref="char:EOLhyphen"/>claration <hi>October</hi> 9. 1643.</note> because the King, whom the Brethren by their Oath of Supremacy had acknow<g ref="char:EOLhyphen"/>ledged was within his Dominions supreme in all Ecclesiasticall Cau<g ref="char:EOLhyphen"/>ses, he did by Proclamation <hi>de<g ref="char:EOLhyphen"/>clare</hi> against it, and prohibit his Subjects the taking of it.</p>
+               <p>This being the truth of the case, the Solemn League and Covenant to root out Prelacy, was sinful both for matter and form; and there<g ref="char:EOLhyphen"/>fore not to be stood too, but re<g ref="char:EOLhyphen"/>pented of. And the Conformists by abjuring the Covenant, as it bound men to such disorderly re<g ref="char:EOLhyphen"/>formations, are so sar from absol<g ref="char:EOLhyphen"/>ving the people from lawful endea<g ref="char:EOLhyphen"/>vours of Church-Reformation, or justifying them from perjury, that they only teach them to pay a just
+<pb n="21" facs="tcp:50003:16"/>debt of repentance, for a notorious breach of the fifth Commandment, and unjust violation of former law<g ref="char:EOLhyphen"/>ful Oaths, evils which they hap<g ref="char:EOLhyphen"/>pened to fall into in a hurry of times, by the erroneous Doctrines and bad Example of their Leaders, which may teach the people for the future to study to be quiet, and do their own business, and take heed <hi>who, how,</hi> and <hi>what</hi> they hear.</p>
+               <p n="7">7. And lastly, let the excellent worth both for piety, parts, learn<g ref="char:EOLhyphen"/>ing, and zeal for holiness of many Conformists be considered, the dirt of this Argument cannot stick on them: But when persons through mistake or discontent separate from a Church and Ministry, they must either make the <hi>Church</hi> and <hi>Ministry vile,</hi> or their separation will make them <hi>vile.</hi> Men love not to be thought to do evil.</p>
+            </div>
+            <div n="2" type="argument">
+               <pb n="22" facs="tcp:50003:17"/>
+               <head>
+                  <hi>Argument II.</hi>
+                  <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> hold Communion with the Publick Ministers, we shall hold Communion with them in their publick Ministerial sins: It is therefore a duty to separate.</head>
+               <p n="1">1. THe Brethren first conclude the publick Ministers One and All guilty of horrible crimes without proof; <label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>
+                  </label> and then that them<g ref="char:EOLhyphen"/>selves shall partake with them in their guilt, if they own them for Pastors. By such imaginations as these, the Devil for many years last past, hath cheated the poor people of <hi>England,</hi> and rob'd them of the chiefest gifts of the Church. Upon this ground <hi>Robinson, Cann,</hi> and the rest of the rigid <hi>Brownists,</hi> pluckt
+<pb n="23" facs="tcp:50003:17"/>away the Children of the Church from the breasts of their own Mo<g ref="char:EOLhyphen"/>ther, and put them to Nurse in the separate Congregations, and ruin'd them. <hi>Read Mr.</hi> Baxters <hi>Epistle to the separate Congregations.</hi>
+               </p>
+               <p n="2">2. The publick professed Mini<g ref="char:EOLhyphen"/>sterial sins of the Publick Ministry that the Objector speaketh of, if there be any, are only sins of igno<g ref="char:EOLhyphen"/>rance, otherwise it is not like so many worthy men should venture on them: Or indeed were the pub<g ref="char:EOLhyphen"/>lick professions, which the Objector calleth sins, <hi>so</hi> indeed, it is much that such and so many hundred pro<g ref="char:EOLhyphen"/>found judgments should not be con<g ref="char:EOLhyphen"/>vinced of their sinfulness. But</p>
+               <p n="3">3. Let that fall out how it will, the ground of the Brethrens separa<g ref="char:EOLhyphen"/>tion on that account is not good: for that holding communion with Ministers barely as <hi>Ministers</hi> of the <hi>Gospel,</hi> (and the Common-people can be charged with no other) will
+<pb n="24" facs="tcp:50003:18"/>not make people participate with them of their Ministerial sins. 'Tis one thing to partake of a Ministers gifts, and Christs Sacraments by his hand; another thing to communi<g ref="char:EOLhyphen"/>cate of his sins. Again, 'Tis one thing to participate with a Minister in the Ministry of that which is good, another thing to participate with him in the guilt of that which is evil. Now I say Gods people may partake of the Ministers Gifts, and Christs Sacraments by his hand, without participation of the guilt of his personal or Ministerial evils: Or else the holy Prophets and peo<g ref="char:EOLhyphen"/>ple of old would never have held Church-communion with the wick<g ref="char:EOLhyphen"/>ed Priests in their time; neither would Christ have commanded his Disciples to communicate in the gifts of the Scribes and Pharisees sitting in <hi>Moses</hi> Chair, of whom he told his Disciples at the same time, that they were wicked men, that said, and did not.</p>
+               <p n="4">
+                  <pb n="25" facs="tcp:50003:18"/> 4. If the brethren themselves could not partake of their own Mi<g ref="char:EOLhyphen"/>nisters ministerial gifts, without par<g ref="char:EOLhyphen"/>ticipating of their ministerial sins, they had better never communicate with them at all. Oh! how great and how many were the ministerial sins of the Pastors of divided parties, in our late confusions upon unhin<g ref="char:EOLhyphen"/>ging the Government; one party prayeth against another as Schisma<g ref="char:EOLhyphen"/>ticks; the other preacheth and pray<g ref="char:EOLhyphen"/>eth against them as Tyrants; a third party preacheth and prayeth against them both, as Antichristi<g ref="char:EOLhyphen"/>an Ministers; a fourth party preach<g ref="char:EOLhyphen"/>eth, and prayeth, and writeth against them all, as under the fourth Beast, ignorant of the work of the day, railing on Superiours. Should the poor people, by joyning in Church-communion with Pastors, become guilty of their ministerial sins there<g ref="char:EOLhyphen"/>by, they are sometimes so great and so many, that it would go near to
+<pb n="26" facs="tcp:50003:19"/>stify the neglect of all Ordinances, and all Ministers.</p>
+               <p n="5">5. And lastly. The Brethren that object, for the most part, do not scruple to hold communion with publick Ministers in prayer and preaching, which sure they would not do, if they thought they should partake with them of their mini<g ref="char:EOLhyphen"/>sterial sins thereby. And what good reason can be given, why Commu<g ref="char:EOLhyphen"/>nion in the Sacraments should make persons partake of the ministerial sins of the Administrator, any more than communion with them in pray<g ref="char:EOLhyphen"/>er and preaching?</p>
+            </div>
+            <div n="3" type="argument">
+               <pb n="27" facs="tcp:50003:19"/>
+               <head>
+                  <hi>Argument III.</hi> If the Parish Churches be sill'd with Ʋsurpers, and the true Ministers thrust into Corners, then 'tis no sin to separate.</head>
+               <p n="1">1. LEt the Brethren learn of Mr. <hi>Baxter.</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>
+                  </label>
+                  <note place="margin">
+                     <hi>Baxter</hi>'s Church-Govern<g ref="char:EOLhyphen"/>ment. p. 131.</note>
+                  <q>The Church is bound, saith he, to take many a <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n as a true Minister to <hi>Them,</hi> and receive the Ordinances from him in faith, and expectation of a blessing upon promise, who yet before God is a sinful Invader, an <hi>Usurper</hi> of the Ministry, and shall be condemned for it.</q>
+               </p>
+               <p n="2">2. But the present Parish Mini<g ref="char:EOLhyphen"/>sters are no <hi>Usurpers.</hi>
+               </p>
+               <p>To usurp is to take possession of a place, once belonging to ano<g ref="char:EOLhyphen"/>ther, <hi>without</hi> or <hi>against</hi> law. The Parish Ministers now do not take
+<pb n="28" facs="tcp:50003:20"/>their places without or against law; and therefore are no Usurpers, but true and lawful possessors of their places.</p>
+               <p n="3">3. What was that created the Brethrens right, <hi>in their opinion,</hi> to publick places in the Long Par<g ref="char:EOLhyphen"/>liament dayes, and <hi>outed</hi> others, but subjection to the Laws (such as they were) then in being for that purpose? Now if obedience to the questionable Laws then in being served them <hi>then</hi> to distinguish them from Usurpers, surely by a far higher reason, obedience to the undoubted Laws <hi>now</hi> will justify the right of present publick Mini<g ref="char:EOLhyphen"/>sters, and distinguish them from U<g ref="char:EOLhyphen"/>surpers.</p>
+               <p n="4">4. When the Parliament put down the Episcopal Party, and set up the Presbyterian and Inde<g ref="char:EOLhyphen"/>pendant, the Brethren did not like to be called Usurpers, but the E<g ref="char:EOLhyphen"/>piscopal Party did alwayes reckon
+<pb n="29" facs="tcp:50003:20"/>them so, because they took them to come into other mens places not legally excluded, but meerly by the power of <hi>force,</hi> without the power of right.</p>
+               <p n="5">5. When King <hi>Solomon</hi> thought good to put down <hi>Abiathar,</hi> and set up <hi>Zadoc</hi> in his room, <hi>Zadoc</hi> was no Usurper.</p>
+            </div>
+            <div n="4" type="argument">
+               <head>
+                  <hi>Argument IV.</hi> It is sin for Christians to be without Discipline, and a more profitable Ministry, when they may have it. The Parish Chur<g ref="char:EOLhyphen"/>ches are without discipline, and have a less profitable Mini<g ref="char:EOLhyphen"/>stry. It is therefore no sin to to separate.</head>
+               <p n="1">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>
+                  </label> 1. IT is indeed a sin for Christians to content themselves with<g ref="char:EOLhyphen"/>out
+<pb n="30" facs="tcp:50003:21"/>out Discipline, and the most pro<g ref="char:EOLhyphen"/>sitable Ministry, when they may have it in a <hi>lawful way;</hi> that is, by Prayers to God, humble Addresses to Authority, faithful Performances of Duty, both to Ministers and Church-membe<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s though it should alwayes be remembred, that the <hi>Rod</hi> is not of the essence of the Fa<g ref="char:EOLhyphen"/>mily: It concerneth the well-being, but not the being of it. But to separate from the Church, and ga<g ref="char:EOLhyphen"/>ther Churches out of the Parish-Churches, and so to set up Altar a<g ref="char:EOLhyphen"/>gainst Altar to come at it, this seem<g ref="char:EOLhyphen"/>eth a most unlawful course of seek<g ref="char:EOLhyphen"/>ing it: this is to deserve personal dis<g ref="char:EOLhyphen"/>cipline ones self, for taking a bad course to come at Church disci<g ref="char:EOLhyphen"/>pline upon <hi>others.</hi>
+                  <list>
+                     <item>1. Because 'tis to do evil that good may come thereof.</item>
+                     <item>2. 'Tis a practise which no Scripture Precept or Example countenanceth.</item>
+                  </list> The Scripture Chur<g ref="char:EOLhyphen"/>ches, both Old and New, were most
+<pb n="31" facs="tcp:50003:21"/>grievously corrupted for want of discipline; but the Prophets,<note place="margin">Luk. 2.21. Luke 17.14. Matth. 23.2.</note> Christ, Apostles did all hold full communi<g ref="char:EOLhyphen"/>on with them notwithstanding, and commanded others to do the like.</p>
+               <p n="3">3. Because to separate from the Church, <hi>is in the nature</hi> of the thing to destroy the Church, and that <hi>di<g ref="char:EOLhyphen"/>rectly.</hi>
+                  <q>Building the Church, saith Mr. <hi>Baxter,</hi>
+                     <note place="margin">
+                        <hi>Baxt.</hi> Ep. to Saints. Rest.</note> is but an orderly joyn<g ref="char:EOLhyphen"/>ing of materials, what then is <hi>dis<g ref="char:EOLhyphen"/>joyning</hi> but pulling down? This is to cure the Church by cutting her throat, saith he.</q>
+               </p>
+               <p n="4">4. The Judgments of the most learned Divines are utterly against separation for the want of disci<g ref="char:EOLhyphen"/>pline. St. <hi>Austin</hi> inveighing against the Donatists separation upon the same pretence, saith thus.<note place="margin">Calvins Institut. p. <hi>413.</hi>
+                  </note>
+                  <q>The devices of separation are vain and <hi>hurtful, and full of sacriledge,</hi> be<g ref="char:EOLhyphen"/>cause they are <hi>ungodly,</hi> and <hi>proud,</hi> and do much more trouble the weak good ones, than they amend
+<pb n="32" facs="tcp:50003:22"/>the stout evil ones.</q>
+               </p>
+               <p>
+                  <hi>Calvin</hi> calleth the separation of the Donatists,<note place="margin">Calvins Instit. l. <hi>4.</hi> cap. <hi>12.413.</hi>
+                  </note> because the Bishops did neglect discipline, <hi>An ungodly Schism;</hi> And to doe like the Anabptists of his time. Let the Brethren consider this. <q>He is free and discharged from curse,</q> saith St. <hi>Austin;</hi> and <hi>Calvin</hi> from him, <q>Who ever he be, that either by rebuking amendeth what he can; or what he cannot amend, exclu<g ref="char:EOLhyphen"/>deth, <hi>saving the band of peace:</hi> What he cannot amend, saving the band of peace, he doth disallow with equity, and bear with sted<g ref="char:EOLhyphen"/>fastness.</q>
+               </p>
+               <p>St. <hi>Cyprian</hi> to the same purpose. <q>Let a man therefore mercifully correct what he can, and what he cannot, let him patiently suffer, and with love grieve and lament it.</q>
+               </p>
+               <p>To this purpose Mr. <hi>Baxter.</hi>
+                  <q>Proud men, saith he, will not grow
+<pb n="33" facs="tcp:50003:22"/>in the same Field or Church where such Tares do grow,<note place="margin">
+                        <hi>Baxt.</hi> Ep. to the se<g ref="char:EOLhyphen"/>parate Congre<g ref="char:EOLhyphen"/>gations.</note> but will transplant themselves, and remove from the field, because God will not pluck up the Tares; espe<g ref="char:EOLhyphen"/>cially if any <hi>ministerial neglect of discipline be conjoyned;</hi> as too commonly it is; and instead of blaming their own pride, they lay the blame on the corruptions of the Church.</q>
+               </p>
+               <p n="2">2. I prove the Parish Churches are not without discipline, whether we respect the <hi>Power</hi> or actual Ex<g ref="char:EOLhyphen"/>ercise of discipline. That they have some power of discipline, I prove,
+<list>
+                     <item>1. From the Title of Rector, which the Law giveth to all Parsons of Parishes;</item>
+                     <item>2. From the Rubrick, where the Minister is not only au<g ref="char:EOLhyphen"/>thorised, but commanded to keep all scandalous persons from the Sa<g ref="char:EOLhyphen"/>crament of the Lords Supper; And</item>
+                     <item>3. from the Canon, where it is writ<g ref="char:EOLhyphen"/>ten, <hi>No Minister shall,</hi> in any wise,
+<pb n="34" facs="tcp:50003:23"/>
+                        <hi>admit to the holy Communion any of his Care or Flock, which be openly known to live in any notorious sin, without repentance; nor any which have maliciously and openly contend<g ref="char:EOLhyphen"/>ded with their Neighbour, until they shall be reconciled.</hi>
+                     </item>
+                     <item>4. Every Pa<g ref="char:EOLhyphen"/>rish Church hath Wardens under Oath, to present all scandalous sin<g ref="char:EOLhyphen"/>ners, in order to punishment for their offences.</item>
+                     <item>5. And lastly, Di<g ref="char:EOLhyphen"/>vers persons, both Ministers and o<g ref="char:EOLhyphen"/>thers, that have been proved scanda<g ref="char:EOLhyphen"/>lous, have suffered censure, both in and about <hi>London,</hi> and else-where.</item>
+                  </list> To say nothing of the Excommuni<g ref="char:EOLhyphen"/>cation of Quakers, and others, whom the Brethren did alwayes judge worthy of censure.</p>
+               <p>Some are of opinion, that there have been more proper acts of dis<g ref="char:EOLhyphen"/>cipline performed in the Parish Churches, upon just offenders, since the Reformation of the Bishops, in a few years, than was in all the time
+<pb n="35" facs="tcp:50003:23"/>of their absence; though not so much as should be and might be, if Officers and People did their du<g ref="char:EOLhyphen"/>ty. And the Brethren that com<g ref="char:EOLhyphen"/>plain should consider how far them<g ref="char:EOLhyphen"/>selves are accessary to the want of discipline, by their withdrawing their brotherly assistance; for that discipline must begin at the People, said Mr. <hi>Calamy</hi> heretofore to the Independants that made this obje<g ref="char:EOLhyphen"/>ction.</p>
+               <p>
+                  <q>Besides, I cannot approve of the practise of those, saith Mr. <hi>Bax<g ref="char:EOLhyphen"/>ter,</hi> that because most of the world are naught, do therefore conclude men dogs and swine, before that ever they did faithfully and loving<g ref="char:EOLhyphen"/>ly admonish them, or perhaps be<g ref="char:EOLhyphen"/>fore ever they have known them, or spoken with them; and here<g ref="char:EOLhyphen"/>upon will not communicate with them in the Lords Supper,<note place="margin">
+                        <hi>Baxters</hi> Epist. to Saints R<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>st.</note> but se<g ref="char:EOLhyphen"/>parate <hi>into distinct Congregations;</hi> I perswade to no such <hi>ungodly se<g ref="char:EOLhyphen"/>paration.</hi>
+                  </q>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="34" facs="tcp:50003:24"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="35" facs="tcp:50003:24"/>
+                  <pb n="36" facs="tcp:50003:25"/>The Brethren that sepa<g ref="char:EOLhyphen"/>rate, neglect their duty in order to discipline, and then separate from the Church for want of discipline.</p>
+               <p n="3">3. If the want of discipline will justifie separation from the Parish Churches now, then it would ju<g ref="char:EOLhyphen"/>stifie the separation of the Inde<g ref="char:EOLhyphen"/>pendants, and Brownists in the Long Parliaments days: For Mr. <hi>Baxter</hi> saith,<note place="margin">Reform'd Pastor, p. 216. Preface to Reform'd Pastor.</note> The Presbyterians then had shewn their Government in Paper, not in Actions. That they generally had settled in a constant neglect of discipline many years together. That their practice, to let none par<g ref="char:EOLhyphen"/>take of the Sacrament that refused to be examined, at the same time leaving them stated Members un<g ref="char:EOLhyphen"/>censured, was rather to <hi>gather Churches out of Churches,</hi> than to execute any proper act of discipline: or to this effect, &amp;c, with much more to the same purpose.</p>
+               <p>Let the Brethren take notice by
+<pb n="37" facs="tcp:50003:25"/>the way, what a deep sense of evil Mr. <hi>Baxter</hi> had of gathering Chur<g ref="char:EOLhyphen"/>ches out of the Parish Churches: And let not the Brethren think it a small matter to justifie all the sepa<g ref="char:EOLhyphen"/>rations from the Parish Churches in their days, against which they so mightily exclaimed heretofore. Is it a light matter to harden all the Sects in <hi>England</hi> that have sepa<g ref="char:EOLhyphen"/>rated from the Church.</p>
+               <p>Again, With what sincerity can the Brethren pretend the want of discipline, to justifie separation from the Parish Churches, that for many years together settled in a constant neglect of it?</p>
+               <p n="4">4. And lastly, Whereas it is said, The separating Ministers are the more profitable, and the more live<g ref="char:EOLhyphen"/>ly Ministers,</p>
+               <p>I answer, I will not deny but that some, yea many of the Ministers, that are now laid aside, while they had their ministerial standing in the
+<pb n="38" facs="tcp:50003:26"/>Parish Churches, and Catholick Communion, were profitable; but the best of them not more profi<g ref="char:EOLhyphen"/>table than many that now take their places in the publick Establishment, if so profitable. Comparisons we say are odious.</p>
+               <p>But let them however be never so profitable, if they once become Pastors of stated opposite Assem<g ref="char:EOLhyphen"/>blies to the Parish Churches, they may continue zealous, but they shall cease to be profitable as to the great ends of a Gospel Ministry.</p>
+               <p>Mr. <hi>Baxter</hi> telleth the Separatists from the Parish Churches,<note place="margin">Epistle to separate Congre<g ref="char:EOLhyphen"/>gations.</note> That the Pharisees Liturgy is of too fre<g ref="char:EOLhyphen"/>quent use in the separate Assem<g ref="char:EOLhyphen"/>blies: <hi>I thank thee, O God, I am not as other men are, nor as this Pub<g ref="char:EOLhyphen"/>lican.</hi>
+               </p>
+               <p>It cannot be denied, and can never enough be remembred and discour<g ref="char:EOLhyphen"/>sed, for the admonition of all Mini<g ref="char:EOLhyphen"/>sters and others, that the same per<g ref="char:EOLhyphen"/>sons,
+<pb n="39" facs="tcp:50003:26"/>and that in great numbers, that while they kept the publick Com<g ref="char:EOLhyphen"/>munion, notwithstanding all the pretended defects of the Parish Churches, they have been known to grow in all the fruits of the spi<g ref="char:EOLhyphen"/>it, mentioned <hi>Gal.</hi> 5. <hi>Faith, Love, Joy, Peace, Humility, Meekness, O<g ref="char:EOLhyphen"/>bedience.</hi> But after their departure from the Catholick Communion, that they might live in the Com<g ref="char:EOLhyphen"/>munion of a purer Church, they have been known to grow as fast in the fruits of the flesh; namely, Va<g ref="char:EOLhyphen"/>riance, Hatred, Emulation, Wrath, Strife, Seditions, Heresies; and ma<g ref="char:EOLhyphen"/>ny have fallen to horrible unclean<g ref="char:EOLhyphen"/>ness. The Independants heretofore tell us,<note place="margin">Apologe<g ref="char:EOLhyphen"/>tical Nar<g ref="char:EOLhyphen"/>ration.</note> they were caution'd against Brownism, by the observation of the Rocks and Shelves they observed they split upon.</p>
+               <p>We have the same reason to be<g ref="char:EOLhyphen"/>ware of all Separations from the Pa<g ref="char:EOLhyphen"/>rish Churches of <hi>England</hi> whatso<g ref="char:EOLhyphen"/>ever.</p>
+               <pb n="40" facs="tcp:50003:27"/>
+               <p> Mr. <hi>Baxter</hi> having taken special notice of the strange and wonderful Judgments of God that hath fol<g ref="char:EOLhyphen"/>lowed persons that have separated from the Parish Churches, for a purer Communion, writ an excel<g ref="char:EOLhyphen"/>lent Epistle to the separate Con<g ref="char:EOLhyphen"/>gregations, wherein he lift up his voice like a Trumpet to awaken them, and convince them of their evil way: which let all the new Se<g ref="char:EOLhyphen"/>paratists read, and tremble.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Baxter</hi> E<g ref="char:EOLhyphen"/>pistle to separate Congrega<g ref="char:EOLhyphen"/>ti<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ns.</note>
+                  <q>The Hand of God is apparently gone out against your wayes of separation; you see you do but prepare persons for a further pro<g ref="char:EOLhyphen"/>gress, Seekers, Ranters, Quakers; and too many professed Infidels do spring up from amongst you, as if this were your journies end, and the perfection of your revolt.</q>
+               </p>
+               <p>Again, <q>By such fearful deserti<g ref="char:EOLhyphen"/>ons did God formerly witness his detestation of those that withdrew from the UNITY of the CHURCM.</q>
+               </p>
+               <pb n="41" facs="tcp:50003:27"/>
+               <p>
+                  <hi>Calvin</hi> speaking of men that break in sunder the bond of Church Unity,<note place="margin">Calvins Instit. l. <hi>4.</hi> p. <hi>339.</hi>
+                  </note> which he reckoneth all to do that separate from a <hi>Church that hath the Word and Sacraments; No man,</hi> saith he, <hi>escapeth the due pu<g ref="char:EOLhyphen"/>nishment of his divorce: He be witch<g ref="char:EOLhyphen"/>eth himself with most pestilent errors, and wicked dotages.</hi>
+               </p>
+               <p>And that we have found it in <hi>England,</hi> as well as <hi>Calvin</hi> and o<g ref="char:EOLhyphen"/>thers observed it in other Countries. So that for the best Ministers and People to agree to break the Unity of the Church, for a purer and live<g ref="char:EOLhyphen"/>lier Communion, is the way to be<g ref="char:EOLhyphen"/>come the worst Ministers and Peo<g ref="char:EOLhyphen"/>ple; yea, No Ministers, No Chri<g ref="char:EOLhyphen"/>stians.</p>
+               <p>
+                  <q>Oh! how dangerous and how deadly a temptation is it, saith <hi>Cal<g ref="char:EOLhyphen"/>vin,</hi>
+                     <note place="margin">Calvins Instit. lib. <hi>4.</hi>
+                     </note> when it doth but enter into our heart to depart from that Congregation wherein are seen the signes and tokens by which the
+<pb n="42" facs="tcp:50003:28"/>Lord thought fit to describe his Church, <hi>Let us beware,</hi> saith he, <hi>of so wicked a disagreement.</hi>
+                  </q>
+               </p>
+            </div>
+            <div n="5" type="argument">
+               <head>
+                  <hi>Argument V.</hi> If there be in one City or Coun<g ref="char:EOLhyphen"/>try some lawful Pastors, that meet in Houses with their Flocks, and some that meet in Temples, he is the Schismatick that meeteth not with the first in Houses, being of his Charge; and he is the Schismatick that meeteth not with the other in Temples, being of his Charge; therefore to say, all must come to the Temples, or all must not, are both Schismatical Asser<g ref="char:EOLhyphen"/>tions.</head>
+               <p n="1">
+                  <pb n="43" facs="tcp:50003:28"/> 1. THis Argument standeth upon a sandy rotten foun<g ref="char:EOLhyphen"/>dation, <label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>
+                  </label> namely, that all Persons, Ministers and People, notwithstand<g ref="char:EOLhyphen"/>ing the Laws to the contrary, may knot in Church-communion as they please. Whereas it dependeth up<g ref="char:EOLhyphen"/>on the Nurse-father of the Church to govern the Pastors, to bound and fix the particular Church-commu<g ref="char:EOLhyphen"/>nion of all Christians in his Domi<g ref="char:EOLhyphen"/>nions, being a part of his work in the business of the Lord.<note place="margin">1 Tim. 2.2.</note> A King of the true Religion, is not only a King of his Subjects as <hi>Men,</hi> but as Chri<g ref="char:EOLhyphen"/>stians; though <hi>Bellarmine</hi> say the contrary, to advance the Pope a<g ref="char:EOLhyphen"/>bove Kings. That it is a part of his Trust to do his utmost, that all things concerning the Worship of God and Religion may be decent<g ref="char:EOLhyphen"/>ly,<note place="margin">1 Cor. 14.40.</note> and orderly performed by his Christian Subjects; and that the whole Affair of Religion may be
+<pb n="44" facs="tcp:50003:29"/>managed to the highest advantage for the glory of God,<note place="margin">Deut. 17.19. Psa. 2.11.</note> the honour of Religion, and the edification of Souls. Kings are commanded to keep all the Law of God, to serve God, to kiss the Son. This being spoken to Kings, not as <hi>Men,</hi> for so it would concern them then no more than other men, but as Kings: It followeth some royal act is re<g ref="char:EOLhyphen"/>quired of them, proper to them <hi>as Kings.</hi> Therein do Kings, as they are commanded by God, serve God, as Kings, if in their Dominions they command things good, and forbid evil; not only in respect of humane society, but the worship of God al<g ref="char:EOLhyphen"/>so, saith St. <hi>Austin.</hi> And this is that Royal nursing the Church, which by the Prophet God hath promised, saith <hi>Grotius</hi> in his Right of the Highest Power.</p>
+               <p>In order hereto, the King putteth the whole Nation into parts, as the General of an Army putteth his
+<pb n="45" facs="tcp:50003:29"/>Souldiers; buildeth, or causeth to be built publick Temples for each part to meet at for the Worship of God: Appointeth approved Pastors for the performance of the Offices of Religion to each part; Encou<g ref="char:EOLhyphen"/>rageth the Universities, and all pub<g ref="char:EOLhyphen"/>lick Schools of Learning; Fixeth maintenance for the Ministry, maketh Laws to bind all the Chri<g ref="char:EOLhyphen"/>stians inhabiting in each part ordina<g ref="char:EOLhyphen"/>rily to tend upon the Word and Sacraments, administred by the Pa<g ref="char:EOLhyphen"/>stors there fixed, to avoid confu<g ref="char:EOLhyphen"/>sion, and to punish all such, as di<g ref="char:EOLhyphen"/>sturbers of the peace and common Order, that shall not obey.</p>
+               <p>By which means, if Pastors, and other Church-Officers and People did their duty, not one Christian in the Kingdom but would come under inspection, except in such Parishes which are grown too nu<g ref="char:EOLhyphen"/>merous, and indeed calleth for re<g ref="char:EOLhyphen"/>ctifying.</p>
+               <pb n="46" facs="tcp:50003:30"/>
+               <p> Whereas, if such particular care were not taken, it cannot rationally be imagined, how one Third of the Nation should come under any Church care at all, or so much as hear the Cospel truly taught.</p>
+               <p>If the whole were not put into parts under particular Officers, the multitude would be in confusion: If they had not publick Temples to meet at, the parts would be at a loss for publick Meeting-places: If no Universities to breed and fit men for the Ministry, Popery would o<g ref="char:EOLhyphen"/>ver-run us for want of learned men to defend the Truth; If Pastors were not approved by men Ortho<g ref="char:EOLhyphen"/>dox, Hell would furnish the Church with Hereticks and false Prophets, instead of true Pastors: If Main<g ref="char:EOLhyphen"/>tenance for Ministers were not fix<g ref="char:EOLhyphen"/>ed, Ministers would be discoura<g ref="char:EOLhyphen"/>ged; for many would rather have no Ministers, than be at the charge of maintaining them. If no Laws to
+<pb n="47" facs="tcp:50003:30"/>bind Christians to frequent the Pub<g ref="char:EOLhyphen"/>lick Ordinances, and keep their Sta<g ref="char:EOLhyphen"/>tions, multitudes would indulge themselves in idleness and schism, which the Laws are a curb to.</p>
+               <p>Now where is the man living that can tell a better way to provide for the honour of Religion, and the salvation of a great Nation of Chri<g ref="char:EOLhyphen"/>stian souls, where there are so ma<g ref="char:EOLhyphen"/>ny millions to be lookt after? Nei<g ref="char:EOLhyphen"/>ther in all this doth the King any thing but in a just pursuit of his Re<g ref="char:EOLhyphen"/>gal Trust; for that he put forth no Act <hi>in</hi> Holy Things, but only <hi>about</hi> Holy Things: No inward Act pure<g ref="char:EOLhyphen"/>ly Ecclesiastical, but outward pure<g ref="char:EOLhyphen"/>ly Political, though about Ecclesi<g ref="char:EOLhyphen"/>astical objects, such as <hi>Asah, Jeho<g ref="char:EOLhyphen"/>sophat, Hezekiah,</hi> and others of the Kings of Israel did. Which Presbyterians do all allow to the Highest Power.</p>
+               <p>Besides all this, the Baptismal Covenant bindeth all that enter in<g ref="char:EOLhyphen"/>to
+<pb n="48" facs="tcp:50003:31"/>it, to obey Authority,<note place="margin">Rom. 13.1.</note> making Laws for the general good; for that it bindeth men to all Gospel duties, as Circumcision bound the Israelites to the Law of <hi>Moses.</hi>
+               </p>
+               <p>How then can the Brethren ima<g ref="char:EOLhyphen"/>gine a relation between Pastor and People, contrary to the Law; as if particulars of a Community, mu<g ref="char:EOLhyphen"/>tually engaged to walk regularly, might break and transgress all pub<g ref="char:EOLhyphen"/>lick Orders, and be blameless.</p>
+               <p>The Law appointeth such an ap<g ref="char:EOLhyphen"/>proved Pastor to perform the Offi<g ref="char:EOLhyphen"/>ces of Religion to such a Company of Christians, in such a Parish. The Law appointeth all those persons to own and attend such an one for their Pastor, till lawful Governors find cause to remove him. That Cohabitation hath an aptitude in it for constant and ordinary Church-communion, agreeth to common sense, and is according to Scripture example. Particular Churches took
+<pb n="49" facs="tcp:50003:31"/>their Name and Relation from Co<g ref="char:EOLhyphen"/>habitation in Scripture times: The Christians dwelling at <hi>Corinth, E<g ref="char:EOLhyphen"/>phesus,</hi> and <hi>Coloss,</hi> take the name of the Church of <hi>Corinth,</hi> the Church of <hi>Ephesus,</hi> and the Church of <hi>Co<g ref="char:EOLhyphen"/>loss.</hi> And in great Cities of Chri<g ref="char:EOLhyphen"/>stians, where the multitude is so great as in <hi>London,</hi> that there is a necessity of putting the whole into parts, 'tis highly reasonable for the common good, that the Neighbour<g ref="char:EOLhyphen"/>hood of each part should concur to<g ref="char:EOLhyphen"/>gether in Church-communion, be<g ref="char:EOLhyphen"/>cause being near one another, they are in the better capacity to perform the duty of brethren to one another; so that the Law, Right Reason, and the Word of God, hath joyned the Parish Ministers and People toge<g ref="char:EOLhyphen"/>ther.</p>
+               <p>Whoever then shall go about to snatch away the People from the publick Minister, authorised by Law in this Nation (where we have a
+<pb n="50" facs="tcp:50003:32"/>fixed Ecclesiastical Estate) and ga<g ref="char:EOLhyphen"/>ther the People to himself, to wait on his Ministry as a Pastor, I fear he will prove the Schismatick, for that be breaketh the Union of the Church causelesly, and worketh confusion in the Church of God. <q>I ever approved a peaceable Con<g ref="char:EOLhyphen"/>formist before a turbulent Non<g ref="char:EOLhyphen"/>conformist,<note place="margin">
+                        <gap reason="illegible: faint" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Rest</note> saith Mr. <hi>Baxter.</hi>
+                  </q>
+               </p>
+               <p>Again, <q>Above all be followers of peace and unity: He that is not a Son of peace is not a Son of God. I differ from my brethren in many things of considerable moment; yet if I should zealously press my judgment on others, so as to di<g ref="char:EOLhyphen"/>sturb the peace of the Church, and separate from my brethren, I should fear I should prove a fire<g ref="char:EOLhyphen"/>brand in Hell, for being a fire<g ref="char:EOLhyphen"/>brand in the Church. I charge you, if God should give me up to any factious Church-rending course, that you forsake me, and follow me not a step.</q>
+               </p>
+            </div>
+            <div n="6" type="argument">
+               <pb n="51" facs="tcp:50003:32"/>
+               <head>
+                  <hi>Argument VI.</hi> Nature teacheth to hold Personal Communion with those Chur<g ref="char:EOLhyphen"/>ches which have all Gods Or<g ref="char:EOLhyphen"/>dinances, and the purest Com<g ref="char:EOLhyphen"/>munion, and the most lively Ministry, not medling with o<g ref="char:EOLhyphen"/>ther men.</head>
+               <p n="1">1. NAture also teacheth not to hurt a Community for a private Convenience; <label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>
+                  </label> to prefer a part before the whole, is not natural: Forasmuch as the parts cannot be conserved but in the whole, 'tis but reasonable that <hi>parts</hi> quit their parti<g ref="char:EOLhyphen"/>cular Inclinations to be ruled by the <hi>Inclination</hi> of the <hi>whole.</hi> The light of Nature teacheth, That the general good of Consociations is to be pre<g ref="char:EOLhyphen"/>ferr'd before the particular good
+<pb n="52" facs="tcp:50003:33"/>of particular Persons, or particular Consociations.</p>
+               <p n="2">2. Nature teacheth all loving, dutiful, and grateful Children, not to forsake and leave their Mother when she is sick or poor, if they may keep with her without sin; but on the contrary to labour to enrich and heal her.<note place="margin">Mr. <hi>Cala<g ref="char:EOLhyphen"/>my</hi>'s Ser<g ref="char:EOLhyphen"/>mon at <hi>Alderman-bury,</hi> 1659.</note>
+                  <q>The way to cure the Churches, saith Mr. <hi>Calamy,</hi> is not to separate from them, but to con<g ref="char:EOLhyphen"/>tinue with them, and by living with them, to labour to enrich and heal them.</q>
+                  <note place="margin">Epist, to Saines Rest.</note>
+                  <q>By other sins men pull down the Church consequentially, but by separation they do it direct<g ref="char:EOLhyphen"/>ly, saith Mr. <hi>Baxter:</hi> And that by gathering Churches into distinct Bodies in <hi>opposition,</hi> they cut the throat of the Church; And surely that is against nature.</q> If any one should object; yes, but the new Separatists do not gather Churches out of the Parish Churches, in <hi>oppo<g ref="char:EOLhyphen"/>sition</hi> to them. To this I answer
+<pb n="53" facs="tcp:50003:33"/>in the words of Mr. <hi>Baxter:</hi>
+                  <q>Build<g ref="char:EOLhyphen"/>ing is putting materials together; what then is disjoyning but pul<g ref="char:EOLhyphen"/>ling down?</q> That practice then that pulleth down the Parish Churches, is done in opposition to them, what ever the parties intend: But to ga<g ref="char:EOLhyphen"/>ther Churches out of the Parish Churches is to pull them down, and therefore a practice in perfect opposition to them.</p>
+               <p n="3">3. Separation to the apparent hurt of the publick speaketh the sad loss of Catholick Principles and Af<g ref="char:EOLhyphen"/>fections. First men lose Catholick Principles, then Catholick Affecti<g ref="char:EOLhyphen"/>ons, and then fall to uncatholick Pra<g ref="char:EOLhyphen"/>ctises, <hi>sinking into self.</hi> But 'tis be<g ref="char:EOLhyphen"/>low the spirit and practise of a ge<g ref="char:EOLhyphen"/>nerous Christian to look at his <hi>own</hi> thing <hi>only.</hi>
+                  <note place="margin">Phil. 2.4.</note> The Apostle sought not his own profit,<note place="margin">1 Cor. 10.33.</note> but the profit of ma<g ref="char:EOLhyphen"/>ny that they might be saved: He pleased not himself, but all men for their edification: And 'tis his express
+<pb n="54" facs="tcp:50003:34"/>precept to the whole Church; Let no man seek his own things,<note place="margin">1 Cor. 10.24.</note> but e<g ref="char:EOLhyphen"/>very man anothers weal.</p>
+               <p>But the case of the Parish Chur<g ref="char:EOLhyphen"/>ches is not all alike. <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label>
+               </p>
+               <p>'Tis true, <label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>
+                  </label> they are not all alike, in all respects; in some the Mini<g ref="char:EOLhyphen"/>sterial gifts are more excellent, in others less; but they are all alike as to the lawfulness of Communi<g ref="char:EOLhyphen"/>on with them, and the unlawfulness of separation from them. For that every Parish Church, where an ap<g ref="char:EOLhyphen"/>proved Minister is fixed, is a true visible Church, to which Christ hath promised his presence: There is all that is essential to a true visi<g ref="char:EOLhyphen"/>ble Church, that is plain, because there is both <hi>matter</hi> and <hi>form</hi> of such a Church.
+<list>
+                     <item>1. There is the Mat<g ref="char:EOLhyphen"/>ter: for there is a company of vi<g ref="char:EOLhyphen"/>sible Saints, that is, a company of Professors of saving faith in Christ, by the Baptismal Covenant separa<g ref="char:EOLhyphen"/>rated for God, and dedicated to
+<pb n="55" facs="tcp:50003:34"/>him; and so take the name of Saints as the primitive Churches did.</item>
+                     <item>2. There is the Form too; and that is congregating themselves together in a stated course to worship God in Christ, To call upon his Name, To hear his Word, To partake of his Sacraments.</item>
+                  </list> Neither is any sin<g ref="char:EOLhyphen"/>ful thing imposed as a condition of Lay-communion, in the judgment of the Brethren themselves. Now nothing more is required to deno<g ref="char:EOLhyphen"/>minate a true Church, with which communion may be held without sin.</p>
+               <p>
+                  <q>Every Congregation,<note place="margin">Calv. In<g ref="char:EOLhyphen"/>stit. lib. <hi>4.</hi> p. <hi>34<gap reason="illegible: blotted" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</hi>
+                     </note> saith <hi>Cal<g ref="char:EOLhyphen"/>vin,</hi> that pretendeth the name of the Church must be thus tried as with a Touchstone, if it have in it the Word and Sacraments, the Order appointed by the Lord, it will not deceive us; let us boldly yield it the honour due unto the Church.</q>
+               </p>
+               <p>In another place, <q>There is not a doubtful, not a deceitful face of
+<pb n="56" facs="tcp:50003:35"/>a Church, where the Word and Sacraments go, reverently heard, and purely administred, Christ go<g ref="char:EOLhyphen"/>eth along with them; for his pro<g ref="char:EOLhyphen"/>mise cannot deceive, <hi>Matth.</hi> 18.20. And these can be no where in a fixed stayed state, but they must bring forth fruit.</q> Thus far He.</p>
+               <p>
+                  <q>The Parish Churches being one and all of this character,<note place="margin">Calv. In<g ref="char:EOLhyphen"/>stit. lib. <hi>4.</hi> p. <hi>341.</hi>
+                     </note> they are such Churches from which a godly man may not separate, where the Word and Sacraments are, saith <hi>Calvin.</hi>
+                  </q> Again, <q>Such a Church is never to be cast off though it swarm full of many other faults; yea some faultiness creep into the Ad<g ref="char:EOLhyphen"/>ministration of Doctrine and Sac<g ref="char:EOLhyphen"/>raments.</q>
+               </p>
+               <p>It must needs then be a grievous sin to separate from the poorest Parish Church in <hi>England;</hi> nay the more grievous, and the greater is the sin of a godly able Member to separate from such a Church, than from
+<pb n="57" facs="tcp:50003:35"/>one more perfect, because there is the most need of the brotherly assi<g ref="char:EOLhyphen"/>stance of abler brethren. If that part of the Church where the lot of more able persons are cast, happen to be uncomely by the weak gifts of the Minister, the ignorance and defects of the Members, let such Brethren hearken to the Apostle upon the uncomely parts.<note place="margin">1 Cor. 11.25.26.</note> We bestow more abundant honour, alluding to the natural Body and Marks, that there may be no <hi>Schism</hi> in the Body. And here let me add,</p>
+               <p>Should an honest and zealous knowing Christian, whose lot by Gods providence becometh cast into the Communion of a poor weak Church; I say should he in the fear of God, and love of the Church, and poor Brethren, in stead of separating from the Church, hold the closer communion with the Church, and considering the true state of the Pastors and Brethren,
+<pb n="58" facs="tcp:50003:36"/>apply himself to them for the gene<g ref="char:EOLhyphen"/>ral good, endeavouring to prefer the common interest, by all manner of holy prudent and sitting appli<g ref="char:EOLhyphen"/>cations, he shall undoubtedly find comfort in it at death more than they that separate: For they to their power have pulled down the Church for their private conveni<g ref="char:EOLhyphen"/>ence; the other denied his own con<g ref="char:EOLhyphen"/>venience to support the Church.</p>
+            </div>
+            <div n="7" type="argument">
+               <pb n="59" facs="tcp:50003:36"/>
+               <head>
+                  <hi>Argument VII.</hi> As we condemn not all the Parish Churches beside when we are but in one of them, so we con<g ref="char:EOLhyphen"/>demn none of them absolutely, when we are in none of them, else the Parish Churches sin<g ref="char:EOLhyphen"/>fully condemn the French and Dutch.</head>
+               <p n="1">1. THe bare simple meeting of Parish Churches in several places, <label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>
+                  </label> doth not amount to condem<g ref="char:EOLhyphen"/>ning one another, no more than se<g ref="char:EOLhyphen"/>veral Companies of an united Army quartering in several places doth, because though they meet in seve<g ref="char:EOLhyphen"/>ral places, they all meet as parts of one another in the same communi<g ref="char:EOLhyphen"/>on, parted only for the better ac<g ref="char:EOLhyphen"/>comodation of the whole. But Se<g ref="char:EOLhyphen"/>paratists,
+<pb n="60" facs="tcp:50003:37"/>that gather Churches out of the Parish Churches into distinct Congregations, under a <hi>distinct</hi> un<g ref="char:EOLhyphen"/>discovered Government; such meet not <hi>as parts</hi> in the Communion of the whole, but <hi>as parties</hi> cut off from the Communion of the whole, and in <hi>opposition</hi> to the whole: For which there being no sufficient cause, they do most sinfully con<g ref="char:EOLhyphen"/>demn their Brethren, and stand just in the condition of a Troop or Com<g ref="char:EOLhyphen"/>pany in an Army, that in discontent have withdrawn themselves from the main Body, resolving to stand upon their own defence, refusing to give and take influences from the whole. Now look what the state of such a Troop or Company would be in the judgment of the Army, the same must such Assemblies be in the judgment of the Church.</p>
+            </div>
+            <div n="8" type="argument">
+               <pb n="61" facs="tcp:50003:37"/>
+               <head>
+                  <hi>Argument VIII.</hi> The Temples and publick Main<g ref="char:EOLhyphen"/>tenance are in the Magistrates hand, and he may give them to whom he will: And if he dispossess the lawful Pastors of them, they are bound to o<g ref="char:EOLhyphen"/>bey him: but they may not take themselves discharged of their Pastoral Office in rela<g ref="char:EOLhyphen"/>tion to their Flocks. Magi<g ref="char:EOLhyphen"/>strates ordain not Ministers, nor degrade them.</head>
+               <p n="1">1. THe Argument supposeth the Parish Pastors &amp; Chur<g ref="char:EOLhyphen"/>ches to have no <hi>Authoritative Go<g ref="char:EOLhyphen"/>vernment</hi> over them at all, <label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>
+                  </label> or else that they <hi>ought</hi> to have none; but that every particular Pastor and
+<pb n="62" facs="tcp:50003:38"/>Congregation throughout all <hi>Eng<g ref="char:EOLhyphen"/>land</hi> should stand independent, both which suppositions are very false.</p>
+               <p>That in a Christian Nation where the King is of a true Religion, and where there is near ten thousand particular Pastors and Congrega<g ref="char:EOLhyphen"/>tions; to say that these by divine right should <hi>all</hi> stand independent without some superiour power to govern the whole, is against the light of nature, and common sense; for where ever Multitude is, there is confusion, unless that Multitude by virtue of <hi>Order</hi> be brought to an Unity. It cannot be otherwise, but that plurality not united toge<g ref="char:EOLhyphen"/>ther by the bond of Union, must come to division, and from division to contention, and from contention to confusion, as we found by expe<g ref="char:EOLhyphen"/>rience upon unhinging the Govern<g ref="char:EOLhyphen"/>ment by Bishops, and the loss of our fixed Ecclesiastical State.</p>
+               <p n="2">2. Since the Restoration of the
+<pb n="63" facs="tcp:50003:38"/>King, and the Bishops, the Parish Pa<g ref="char:EOLhyphen"/>stors and Churches become fixed by <hi>Law</hi> again, and are under Govern<g ref="char:EOLhyphen"/>ment. And if the Brethren have ta<g ref="char:EOLhyphen"/>ken the Oath of Supremacy, they have owned the King to be supreme Governor of all Persons and Causes in his Dominions both Ecclesiastical and Civil. Now except the Bre<g ref="char:EOLhyphen"/>thren think the bounding particular Congregations, and ordering the Pastors, to be no Ecclesiastical Causes: They are both under the government and ordering of the King, and determined by the Laws; and particular Pastors and Congre<g ref="char:EOLhyphen"/>gations cannot claim Independency without sin.</p>
+               <p>The King hath made the Bishops Governors under himself of all the particular Pastors and Parish Chur<g ref="char:EOLhyphen"/>ches in <hi>England,</hi> as any one may see that readeth the Book of Ca<g ref="char:EOLhyphen"/>nons,<note place="margin">Book of Canons. Seventh Canon</note> wherein the King ratisieth and enjoyneth this Canon with the rest;
+<pb n="94" facs="tcp:50003:39"/>That Excommunication <hi>ipso facto</hi> pronounced against the man that depraveth the Government by Archbishops and Bishops, &amp;c.</p>
+               <p>Now how should the Brethren continue lawful Pastors to particular Flocks in the Church of <hi>England,</hi> contrary to the publick Laws of Superiours? The Law saith all In<g ref="char:EOLhyphen"/>cumbents that perform not such conditions shall cease to be Parish Pastors: Thereupon others become placed in their room. The Brethren say, though they do not perform those conditions, and others be put in their places, yet their Pastoral relation to their Flocks standeth still. Now I ask how this can be, except the Brethren reckon them<g ref="char:EOLhyphen"/>selves lawless persons.</p>
+               <p>
+                  <hi>Object.</hi> Why but though they are no lawful Pastors before the Church of <hi>England,</hi> and in the eye of the Law, yet they are before God.</p>
+               <p>
+                  <hi>Answ.</hi> 1. If they are no lawful
+<pb n="65" facs="tcp:50003:39"/>Pastors before the Church, and in the eye of the Law, they can<g ref="char:EOLhyphen"/>not be lawful Pastors of their particular Flocks before God, be<g ref="char:EOLhyphen"/>cause for the safety and common<g ref="char:EOLhyphen"/>weal of the Church, God hath committed the power of govern<g ref="char:EOLhyphen"/>ing both Pastors and Flocks to the Nurse-father of the Church (whom the Brethren use to stile a Bishop of things <hi>WITHOƲT:</hi>
+                  <note place="margin">Jus divi. Presb.</note>) To that purpose the power of placing, displacing, deposing suspending, and removing Pa<g ref="char:EOLhyphen"/>stors, as he shall find cause, <hi>with<g ref="char:EOLhyphen"/>out</hi> or <hi>Against</hi> the Peoples or Pa<g ref="char:EOLhyphen"/>stors minds: Otherwise, an end shall be propounded him; that is, to preserve the Churches Purity, Peace, and Unity, but the neces<g ref="char:EOLhyphen"/>sary means shall be denied him: One whereof, is to have the power of placing, displacing, transplanting, or temporary su<g ref="char:EOLhyphen"/>spending Ministers; for that
+<pb n="66" facs="tcp:50003:40"/>sometimes they prove scanda<g ref="char:EOLhyphen"/>lous, sometimes heretical, some<g ref="char:EOLhyphen"/>times seditions, sometimes im<g ref="char:EOLhyphen"/>proved for publick use.</p>
+               <p>In all which cases, it is plainly necessary for the common good, that Pastors be removed, but 'tis not always found that Pastors and People are willing to it, but the contrary. That popular electi<g ref="char:EOLhyphen"/>on is not absolutely necessary to the relation of Pastor and and Flock (though in some cases convenient) is the declared judg<g ref="char:EOLhyphen"/>ments of the <hi>London</hi> Ministers, as well as others; for which they give strong Reasons.<note place="margin">Jus divin. Minist. p. <hi>132.</hi>
+                  </note>
+                  <hi>Jus Divin. Ministerii, Anglic.</hi> p. 132.</p>
+               <p>
+                  <hi>Object.</hi> But if it be said <hi>further,</hi> Magistrates do not Ordain Mini<g ref="char:EOLhyphen"/>sters, nor degrade them.</p>
+               <p>
+                  <hi>Answ.</hi> 1. 'Tis one thing for a Magistrate to degrade a Mini<g ref="char:EOLhyphen"/>ster, another thing to prohibit him the exercise of his <hi>Ministry in
+<pb n="67" facs="tcp:50003:40"/>his Dominions.</hi> This saith Mr. <hi>Bax<g ref="char:EOLhyphen"/>ter</hi> unquestionably he may do.</p>
+               <p n="2">2. <hi>Solomon</hi> did not ordain <hi>Abia<g ref="char:EOLhyphen"/>thar,</hi> but he deposed him and set up <hi>Zadoc</hi> in his room.<note place="margin">
+                     <hi>Baxter,</hi> Holy Com<g ref="char:EOLhyphen"/>mon<g ref="char:EOLhyphen"/>wealth, <hi>p.</hi> 302.</note> And Mr. <hi>Bax<g ref="char:EOLhyphen"/>ter</hi> saith, <q>It was just <hi>Solomon, David,</hi> and other Kings of <hi>Israel</hi> and <hi>Judah</hi> did take down and set up Priests, and order the Of<g ref="char:EOLhyphen"/>ficers of the house of God.</q> The care of the Church is so com<g ref="char:EOLhyphen"/>mitted to Kings,<note place="margin">Book of Canons, 1640.</note> in the Scrip<g ref="char:EOLhyphen"/>ture, that they are commended, when the Church goeth the right way; and taxed, when it run<g ref="char:EOLhyphen"/>neth amiss: And therefore her Government belongeth in chief unto Kings; for otherwise, one man would be commended for anothers care, and taxed for an<g ref="char:EOLhyphen"/>others negligence. The old Non<g ref="char:EOLhyphen"/>conformists therefore being si<g ref="char:EOLhyphen"/>lenced, did acquiesce therein, and being objected against by the Brownists for so doing, they
+<pb n="68" facs="tcp:50003:41"/>justifie themselves by this Argu<g ref="char:EOLhyphen"/>ments, <q>If a guiltless person put out of his charg by the Churches Authority, may yet continue in it, what proceedings can there be against guilty persons, who in their own conceit are always guiltless, or will at least pretend so to be, seeing they also will be always ready to object against the Churches judgement, that they are called of God, and therefore will not give over their Ministry at the will of man, Mr. <hi>Rathband,</hi> page 41.</q>
+               </p>
+               <p>Upon the whole then, it ap<g ref="char:EOLhyphen"/>peareth a vain Plea of the Bre<g ref="char:EOLhyphen"/>thren, that after their particular Flocks are by publick Governors and the Laws disposed to other Shepherds legally qualified, they should yet stile themselves, The Legal Pastors, and call the pre<g ref="char:EOLhyphen"/>sent Incumbents Usurpers. As if a Captain when his Commission
+<pb n="69" facs="tcp:50003:41"/>is taken from him, by the Ge<g ref="char:EOLhyphen"/>neral, and his Company transfer<g ref="char:EOLhyphen"/>ed to the Conduct of another, should yet affirm he was Cap<g ref="char:EOLhyphen"/>tain, and the Company his Com<g ref="char:EOLhyphen"/>pany: Should any discontented Officer in an Army plead thus, and make a party upon it, and disturb the peace of the Army, it would be very scandalous. There is the same reason it should be so in the Church.</p>
+               <p>
+                  <hi>Object.</hi> But what, are Magi<g ref="char:EOLhyphen"/>strates to be obeyed absolutely, in point of <hi>Pastors, Church</hi> and <hi>Worship?</hi> If so, then in <hi>Spain, France, Italy,</hi> and all over the world.</p>
+               <p>
+                  <hi>Answ.</hi> No doubt the power of the Magistrate in point of Pa<g ref="char:EOLhyphen"/>stors, Church and Worship, is limited by God: And therefore if King <hi>Solomon</hi> when he put down <hi>Abiathar,</hi> had set up a Priest of <hi>Baal</hi> in his room, and com<g ref="char:EOLhyphen"/>manded
+<pb n="70" facs="tcp:50003:42"/>the people to own him for the Priest of the true God, he ought not to have been obeyed: But since he set up <hi>Zadoc</hi> in his room, a true Priest of the same Religion, he ought to be obeyed, because he did but change the <hi>Officer,</hi> not the <hi>Religion.</hi>
+               </p>
+               <p>
+                  <hi>Object.</hi> Magistrates may drive us on to our duties in Religion, but not from our duties: There<g ref="char:EOLhyphen"/>fore if he command true ordain<g ref="char:EOLhyphen"/>ed Ministers not to preach, or people not to hear them, or not to perform their duty to them; <hi>Whether it be better to obey God or men, judge ye.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> 1. Truth of Ordination <hi>Alone,</hi> will not continue a title to a publick strtion in the Mini<g ref="char:EOLhyphen"/>stry <hi>in all cases. Abiathar</hi> was truly ordained a Priest, but yet the Brethren grant it was law<g ref="char:EOLhyphen"/>ful for <hi>Solomon</hi> to depose him. If true ordained Ministers shall
+<pb n="71" facs="tcp:50003:42"/>after their Ordination, by Scan<g ref="char:EOLhyphen"/>dal, Heresie or Schism, threaten the Church, they are to be avoid<g ref="char:EOLhyphen"/>ed by Divine Law: As by private persons, in a private capacity,<note place="margin">
+                     <hi>Rom.</hi> 16.17.</note> so by publick persons, in a publick capacity, for the common safety of the Church. <hi>Grotius</hi> telleth us,<note place="margin">
+                     <hi>Grotius</hi> right of the high<g ref="char:EOLhyphen"/>est pow. <hi>p,</hi>
+                     <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>3<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note>
+                  <q>The right of removing a certain person or persons from the Mi<g ref="char:EOLhyphen"/>nistry of a certain place, ought always to remain in the highest power: Nor only may he do this by way of punishment, but by way of caution too; and un<g ref="char:EOLhyphen"/>less the highest power could do this,<note place="margin">
+                        <hi>p.</hi> 240.</note> the Commonwealth were not sufficient to secure it self.</q>
+               </p>
+               <p>For a Non-conforming Mini<g ref="char:EOLhyphen"/>ster then, though truly ordained, to undertake to preach in this Nation contrary to Law, and draw people to hear him contrary to Law, some think so far from being any point of obedience to
+<pb n="72" facs="tcp:50003:43"/>God, that it maketh both Minister and people guilty of greater evils than I am willing to mention.</p>
+               <p>'Tis true, if a Jewish or Hea<g ref="char:EOLhyphen"/>then Magistrate, being of a false Religion, command an Apostle of the true Religion, not to preach any more in Christs name: then to disobey man would be to obey God; which was the case of the Apostle <hi>Peter,</hi> who though he could work miracles to justifie his divine Commission, yet the Coun<g ref="char:EOLhyphen"/>cil of the Jews forbad him to speak any more in Christs name: To whom he saith,<note place="margin">
+                     <hi>Act.</hi> 4.19.</note>
+                  <hi>Whether it be better to obey God or men judge ye.</hi>
+               </p>
+               <p>But this is far from our Bre<g ref="char:EOLhyphen"/>threns case; and therefore this Text is impertinently urged.</p>
+               <p>Because our Non-conformists can plead no extraordinary Call to the Ministry, as <hi>Peter</hi> could: They can work no Miracles to justifie their Commission as <hi>Peter</hi>
+                  <pb n="73" facs="tcp:50003:43"/>could. On the other hand, our Law-makers, the King and Par<g ref="char:EOLhyphen"/>liament, are no Jews, as that Council was to whom the Apo<g ref="char:EOLhyphen"/>stle <hi>Peter</hi> spake those words. But on the contrary,</p>
+               <p>With us the Supreme Magi<g ref="char:EOLhyphen"/>strate is a <hi>Christian:</hi> And instead of <hi>forbidding</hi> persons to preach in <hi>Christs name,</hi> as the Jewish Magi<g ref="char:EOLhyphen"/>strates did, he filleth the publick Temples with Pastors or Preach<g ref="char:EOLhyphen"/>ers in Christs name: And quite contrary to the Jews, <hi>commandeth</hi> them to preach in his name, and the people to hear them upon certain penalties if they neglect; and for reasons of Church and State, forbiddeth private Con<g ref="char:EOLhyphen"/>ventions for worship: As the Church of <hi>Scotland</hi> was ever wont to do. This is our case. Now for Ministers and people, as this case is, to walk cross to publick Au<g ref="char:EOLhyphen"/>thority, and disobey man, I fear
+<pb n="74" facs="tcp:50003:44"/>is to disobey God, who hath said, <hi>Let every soul be subject to the higher power.</hi>
+                  <note place="margin">
+                     <hi>Rom.</hi> 13.1</note>
+               </p>
+            </div>
+            <div n="9" type="argument">
+               <head>
+                  <hi>Argument IX.</hi> If Magistrates would appoint us unskilful Physicians for our bodies, when we can chuse bet<g ref="char:EOLhyphen"/>ter for our selves, we love our live too well, to think we should obey them: But the Magistrate hath less power to deprive us of the choice of our own best Soul Physicians, than of our Body Physicians; for that the danger of death is less terrible, than the danger of damnation.</head>
+               <p n="1">
+                  <pb n="75" facs="tcp:50003:44"/> 1. THe <hi>London</hi> Ministers, <label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>
+                  </label>
+                  <note place="margin">Jus divi. Minist. p. <hi>132.</hi>
+                  </note> as well as others, have given divers good Reasons, why in some cases, people are not to be trusted with the choice of their Ministers.</p>
+               <p n="2">2. Some think, by reflecting upon the furious proceedings of unpeaceable spirited men this last thirty years, that it is far better for Religion, and the safe<g ref="char:EOLhyphen"/>ty of the people, to enjoy a peaceable spirited Minister, though of weaker gifts; than a turbulent, though of never so ex<g ref="char:EOLhyphen"/>cellent gifts, for that peace to the Church is as life to the man.</p>
+               <p>The most Learned Lord <hi>Bacon,</hi>
+                  <note place="margin">Lord <hi>Ba<g ref="char:EOLhyphen"/>con,</hi> Es<g ref="char:EOLhyphen"/>says, <hi>p.</hi> 13.</note> speaking of peace in the Church, and the benefits of it to those within the Church, saith, <q>It containeth infinite blessings, it establisheth faith, it kindleth
+<pb n="76" facs="tcp:50003:45"/>charity. The outward peace of the Church, distilleth into peace of conscience, and it turn<g ref="char:EOLhyphen"/>eth the labours of writing and reading of Controversies, into Treatises of Mortification and Devotion.</q> But speaking of dis<g ref="char:EOLhyphen"/>union, he saith, <q>'Tis worse for the Church, than corruption of Manners.</q>
+               </p>
+               <p n="3">3. If the highest power for rea<g ref="char:EOLhyphen"/>sons of state, should appoint cho<g ref="char:EOLhyphen"/>sen and Approved Physicians to any place, who can refuse them? <hi>Grotius</hi> telleth us, <q>Though na<g ref="char:EOLhyphen"/>turally men chuse Teachers for their children, and give them Guardians, sick persons make use of what Physician they please; yet in many places, Guardianship is appointed by Law, or the will of the Magi<g ref="char:EOLhyphen"/>strate; Physicians and School-Masters are constituted by pub<g ref="char:EOLhyphen"/>lick Order, with Interdiction of
+<pb n="77" facs="tcp:50003:45"/>others from the practice of those faculties.</q> And he saith, <q>this right is competent to the high<g ref="char:EOLhyphen"/>est power.</q> And as for the ap<g ref="char:EOLhyphen"/>pointing of Pastors, he saith thus, <q>That sometimes there may be just causes why the highest Power should challenge to its self the election of Pa<g ref="char:EOLhyphen"/>stors. <hi>No wise man will deny.</hi>
+                     <note place="margin">Right of highest power.</note> Many Reasons he urgeth, <hi>p.</hi> 215. For often errours introduced into the Church of God, against the Word of God, cannot be rooted out by other means. Often there is no other way to avoid Schism:</q> with more to same purpose, and concludeth, <q>The manner of election of Pastors to be of the number of those things that are not specially determined by Law Divine: And that accord<g ref="char:EOLhyphen"/>ingly in ancient time, the Church somtime proceeded one way, and sometime another
+<pb n="78" facs="tcp:50003:46"/>way, according to the different state and condition of the Church.<note place="margin">Right, <hi>p</hi> 195.</note> This he sheweth at large; and that this also was the judgement of <hi>Beza,</hi> p. 195.</q>
+               </p>
+               <p n="4">4. If the Doctrine preached in the poorest Parish Church in <hi>England,</hi> be humbly heard and embraced, though preached by a weak Minister, there can be no danger of damnation, because 'tis the doctrine of the Gospel of Christ, which is the power of God to Salvation. And the ve<g ref="char:EOLhyphen"/>ry same for substance which the Brethren preach in private (if they preach truth:) And if any preach contrary thereto, such are no Ministers allowed by Autho<g ref="char:EOLhyphen"/>rity.</p>
+               <p n="5">5. The few godly names in the Church of <hi>Sardis,</hi> did not only keep themselves in the love of God, but in a state of much pu<g ref="char:EOLhyphen"/>rity, Even under a <hi>dead</hi> Ministry.<note place="margin">
+                     <hi>Rev</hi> 3.1.</note>
+                  <pb n="79" facs="tcp:50003:46"/>For that <hi>Angel,</hi> though he had a name to live, was dead. Sal<g ref="char:EOLhyphen"/>vation then is not in danger un<g ref="char:EOLhyphen"/>der a weak, so it be a true Mi<g ref="char:EOLhyphen"/>nistry, unless it be the peoples own fault: And so it will be un<g ref="char:EOLhyphen"/>der the most lively Ministry in the world, but higher edification only; which inconvenience by diligent prayer, reading the ho<g ref="char:EOLhyphen"/>ly Scriptures, especially Christs Sermon on the Mount, with other good Books, godly Conference and good works, may be re<g ref="char:EOLhyphen"/>deemed.</p>
+               <p n="6">6. The natural Itch in common people to quarrel with Superiors, Pastors and others, and with<g ref="char:EOLhyphen"/>drawing their due obedience, hath been of very sad conse<g ref="char:EOLhyphen"/>quence in <hi>England.</hi>
+                  <q>I think, saith Mr. <hi>Baxter,</hi>
+                     <note place="margin">Mr. <hi>Baxt.</hi> against <hi>Crandon,</hi> p. 83.</note> till we have better taught even our godly people, what credit and obedi<g ref="char:EOLhyphen"/>ence is due to their Teachers
+<pb n="80" facs="tcp:50003:47"/>and Spiritual Guides, the Churches of <hi>England</hi> shall ne<g ref="char:EOLhyphen"/>ver have peace, or any good or establish'd order: We are bro<g ref="char:EOLhyphen"/>ken for want of the knowledge of this truth; till this be known, we shall never be well bound up and healed.</q>
+               </p>
+               <p>In another place, <q>Art thou ready to censure the Doctrine of thy Teachers, the actions of thy Rulers, and the persons of thy Brethren, beyond doubt thou art a proud person, pride hath seized on thy heart, there is too much Hell in thee to have any acquaintance as Heaven.</q> It is possible his invention and me<g ref="char:EOLhyphen"/>mory, may furnish his tongue with humble and heavenly ex<g ref="char:EOLhyphen"/>pressions, but in his spirit,<note place="margin">S. Rest. <hi>p.</hi> 70.</note> there is no more Heaven than there is Humility.</p>
+            </div>
+            <div n="10" type="argument">
+               <pb n="81" facs="tcp:50003:47"/>
+               <head>
+                  <hi>Agument X.</hi> The new Separatists do not sepa<g ref="char:EOLhyphen"/>rate from the Parish Churches upon the same terms that some others do; <hi>viz.</hi> as being no true Churches of Christ, ha<g ref="char:EOLhyphen"/>ving no true Ministry, nor true Worship, with which com<g ref="char:EOLhyphen"/>munion may lawfully be held: But the Presbyterians sepa<g ref="char:EOLhyphen"/>rate to enjoy a better Mini<g ref="char:EOLhyphen"/>stry, Discipline, and a purer Communion, and will some<g ref="char:EOLhyphen"/>times hold Communion with the Parish Churches, where they can have no better; so that their Separation is but like removing from one Pa<g ref="char:EOLhyphen"/>rish
+<pb n="82" facs="tcp:50003:48"/>rish Church to another: 'Tis not setting up <hi>Altar against Altar.</hi>
+               </head>
+               <p n="1">1. <label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>
+                  </label>
+                  <hi>THe culpable Schism of the Brethren</hi> lieth in matter of fact, That they causlesly and cruelly divide the Church, let the terms upon which they do it be what they will.</p>
+               <p n="2">2. To remove from one Pa<g ref="char:EOLhyphen"/>rish Church to another Parish Church, was never called Sepa<g ref="char:EOLhyphen"/>ration, nor ever counted blame<g ref="char:EOLhyphen"/>worthy, because all the Parish Churches in <hi>England</hi> are in one and the same common Commu<g ref="char:EOLhyphen"/>nion, under one and the same Government and Discipline, meeting in parts for necessity sake, and by publick order: So that by such removing from one Parish Church to another, there is no publick Order broke, there
+<pb n="83" facs="tcp:50003:48"/>is no affront offered to Autho<g ref="char:EOLhyphen"/>rity: But to gather Churches out of the Parish Churches establish'd by Law, into distinct Congrega<g ref="char:EOLhyphen"/>tions, under a distinct Govern<g ref="char:EOLhyphen"/>ment, contrary to the publick Laws, this is downright Separa<g ref="char:EOLhyphen"/>tion: This is plainly to set up Altar against Altar, in the Lan<g ref="char:EOLhyphen"/>guage of Mr. <hi>Baxter</hi> in his Book of Rest: <hi>Such Disunion and Separa<g ref="char:EOLhyphen"/>ration as this,</hi> he saith,<note place="margin">
+                     <hi>Baxters</hi> Ep. to the Rest.</note>
+                  <hi>is utterly in<g ref="char:EOLhyphen"/>tolerable, because it cutteth the Church into shreds: It directly de<g ref="char:EOLhyphen"/>molisheth and pulleth down the Church. Building,</hi> saith he, <hi>is but an orderly joyning the materials. What then is disjoyning, but pulling down?</hi> and to do thus, <hi>is to cure the Church by cutting her throat,</hi> as hath been noted before.</p>
+               <p n="2">2. These new Separatists, by their separation upon these terms, make their Schism (in some re<g ref="char:EOLhyphen"/>spects) more criminal, and less
+<pb n="84" facs="tcp:50003:49"/>excusable, both before God and man, than the worst Sect that ever separated from the Parish Churches: Because the Brown<g ref="char:EOLhyphen"/>ists and Anabaptists have always pleaded for the justification of their Separation from the Parish Churches, that our Churches, Ministry and Worship were false, yea Antichristian; and therefore they could not hold Communion with the Parish Churches with<g ref="char:EOLhyphen"/>out sin. Now though they are abused by their wild and mad conceits, yet their erronious con<g ref="char:EOLhyphen"/>sciences makes their Schism less criminal before God, than the new Presbyterian Schism; be<g ref="char:EOLhyphen"/>cause though they believe the Parish Churches true Churches, the Ministry a true Ministry, the Worship true Worship, and there<g ref="char:EOLhyphen"/>fore such as they may not only lawfully hold Communion with, but that sometimes they ought
+<pb n="85" facs="tcp:50003:49"/>do it: Yet presume to gather Churches out of them into di<g ref="char:EOLhyphen"/>stinct Congregations; and that after themselves have told us in their Divine Right of Presbyte<g ref="char:EOLhyphen"/>ry (with truth enough) That <hi>to gather Churches out of Churches,</hi>
+                  <note place="margin">Preface to the Divine Right of Church-Govern<g ref="char:EOLhyphen"/>ment.</note> meaning the Parish Churches of <hi>England, is a practise without all Scripture president, contrary to Apo<g ref="char:EOLhyphen"/>stolical Precept: The scattering of the Churches, the Mother of Confusion, The Daughter of Schism, and the Stepmother of Edification.</hi>
+               </p>
+               <p>We believe the truth of this Proposition now, and that it shineth with its own light, and that it is utterly impossible ever to shew one Scripture Precept or President, where the best mem<g ref="char:EOLhyphen"/>bers have separated from a true Church (though corrupt in many things) into a <hi>distinct</hi> Congrega<g ref="char:EOLhyphen"/>tion, to become a new Church of themselves, <hi>merely</hi> for a more <hi>live<g ref="char:EOLhyphen"/>ly
+<pb n="86" facs="tcp:50003:50"/>Ministry, Discipline,</hi> and <hi>purer Communion.</hi> Sure I am, the pious and zealous people of the cor<g ref="char:EOLhyphen"/>rupt Churches of the New Testa<g ref="char:EOLhyphen"/>ment did not do thus. In the Church of <hi>Sardis</hi> there was but a few living names; the Mi<g ref="char:EOLhyphen"/>nister and the generality of the people was dead. But what, do we find these few living names separating from the dead Angel, and dead part of the Church, for a more pure and lively communion? No such matter: Neither did the Lord Jesus in his Letter from Heaven to these few living names, give them any such Precept: He praises the few li<g ref="char:EOLhyphen"/>ving names, that they kept them<g ref="char:EOLhyphen"/>selves pure in the communion of a bad, undisciplin'd Church; but did not command them to sepa<g ref="char:EOLhyphen"/>rate from the rest, into a distinct body, for a purer communion amongst themselves: Yet he nei<g ref="char:EOLhyphen"/>ther
+<pb n="87" facs="tcp:50003:50"/>wanted love to them, nor wisdom to direct them.</p>
+               <p n="3">3. Consider that the most ri<g ref="char:EOLhyphen"/>gid Brownists and Separatists themselves, have declaimed a<g ref="char:EOLhyphen"/>gainst Separation from such a Church, upon such grounds as you insist on. <hi>Robinson</hi> saith thus,<note place="margin">
+                     <hi>Robins.</hi> Reasons discussed, <hi>p.</hi> 227.</note>
+                  <q>That from a true Church, so remaining, separation from such a Church is intolerable for any corruptions whatsoever: A wicked Schism it is, saith he.</q>
+               </p>
+               <p n="4">4. Whereas you gather the best people out of the Parish Churches, into distinct Con<g ref="char:EOLhyphen"/>gregations, for a better, and purer communion sake; consi<g ref="char:EOLhyphen"/>der, this practise is the effect of sinful self-love, that would pro<g ref="char:EOLhyphen"/>vide well for it self, though ne<g ref="char:EOLhyphen"/>ver so much to the detriment of of the publick. Mr. <hi>Edwards</hi> said from Mr. <hi>Cartwright,</hi> the white Devil was in this pretence. 'Tis
+<pb n="88" facs="tcp:50003:51"/>true, that where there is in any Nation an Army of a hundred thousand men; for <hi>ten</hi> or <hi>twenty</hi> Captains to gather all the <hi>valiant, faithful, diligent, skilful</hi> Souldiers of the Army into <hi>ten</hi> or <hi>twenty</hi> Troops or Companies: This would make ten or twenty ex<g ref="char:EOLhyphen"/>cellent Troops or Companies, and no doubt would be very pleasant to the Captains and Souldiers so related. But what mischief, by this means, would be done to the whole Army? Were it not every way better for the whole Army, that the best Souldiers should be scattered throughout the Army, some in every Troop and Company, for the giving good example, and spiriting and provoking the rest to their duty. Consider this well, and apply this similitude to your Separation from the Parish Churches, the reason being evi<g ref="char:EOLhyphen"/>dently
+<pb n="89" facs="tcp:50003:51"/>the same, and you can<g ref="char:EOLhyphen"/>not but accept conviction, that your Separation, if you should persist in it, would endanger the loss of many thousand souls, wrong the great interest of Chri<g ref="char:EOLhyphen"/>stian Religion in the Nation, and extremely hazard the Protestant cause. Remember the Church is compared to an Army with Banners.</p>
+               <p n="4">4. Consider how unlike this selfish practise is, to the <hi>Noble, Generous,</hi> Catholick spirit of Christ and his Apostles: Scrip<g ref="char:EOLhyphen"/>ture telleth us, that Christ, though he was rich, he made himself poor, that we through his pover<g ref="char:EOLhyphen"/>ty might be made rich. You on the contrary, to accommo<g ref="char:EOLhyphen"/>date your selves, care not <hi>who</hi> nor <hi>how many</hi> you make poor, I mean in spiritual comfort.</p>
+               <p>Again, compare your practise with these Scriptures of the
+<pb n="90" facs="tcp:50003:52"/>Apostle <hi>Paul,</hi> and you will be ashamed of it: <hi>Look not every man on his own things, but every man on anothers also. Let no man seek his ownthings, but every man anothers weal. I seek not my own profit, but the profit of many, that they may be saved: Ʋpon the uncomely parts we bestow the more abundant ho<g ref="char:EOLhyphen"/>nour, that there may be no schism in the body, but that the whole body may have the same care one for another.</hi> Brethren, to reconcile your pra<g ref="char:EOLhyphen"/>ctise with these Scriptures, you will find a hard task, except you were mistaken when you said, To gather Churches out of our Pa<g ref="char:EOLhyphen"/>rish Churches, was the Mother of confusion: If Separation be the Mother of confusion, God is not the Author of it: For God is the God of order, not of con<g ref="char:EOLhyphen"/>fusion. And if it be the Mother of confusion, how can you pro<g ref="char:EOLhyphen"/>ceed in such a path?</p>
+               <pb n="91" facs="tcp:50003:52"/>
+               <p>
+                  <hi>Object.</hi> If you shall say, as some do, We hold with the separate people of the Presbyterian per<g ref="char:EOLhyphen"/>swasion, to prevent their running into other Sects, at last to Qua<g ref="char:EOLhyphen"/>kerism.</p>
+               <p>
+                  <hi>Answ.</hi> 1. In the mean time you commit a gross sin, the sin of Schism, by breaking the union of the Church without sufficient cause; and that to come at an uncertain good, contrary to the rule, <hi>Rom.</hi> 3.8.</p>
+               <p n="2">2. Separation is the way to make Quakers, as our experi<g ref="char:EOLhyphen"/>ence hath proved, rather than to prevent Quakerism.</p>
+               <p n="3">3. You grieve and wrong the legal Minister, by scattering his flock, undermining his reputati<g ref="char:EOLhyphen"/>on with the people, weakning his maintenance, as well as the maintenance of all Parish officers: This was your complaint hereto<g ref="char:EOLhyphen"/>fore against the Independents.</p>
+               <p n="4">
+                  <pb n="92" facs="tcp:50003:53"/> 4 You wrong the people you comply with more, by joyning with them in their sin of Separa<g ref="char:EOLhyphen"/>tion, than you can do them good.
+<list>
+                     <item>1. By tacitly consenting to their needless scruples, which you know to be so, and thereby become accessary to the weak<g ref="char:EOLhyphen"/>ness of their consciences, and superstition that followeth upon it.</item>
+                     <item>2. You train up the people to a dislike of publick Authority by your example, and so feed the humour of breaking the Fifth Commandment, and teach the young man to lift up himself above the Ancient, and the vile above the Honorable; as they have most shamefully done for thirty years last past.</item>
+                     <item>3. You train them up in spiritual pride, justifying themselves that they are righteous, and condemning others.</item>
+                  </list>
+               </p>
+               <p n="5">
+                  <pb n="93" facs="tcp:50003:53"/> 5. By this practise you harden all the Sects in their way, and make all hopes of any settled Government, even in your own way, desperate.</p>
+               <p n="6">6. This separation tendeth to Atheism, instead of Reformation: people seeing so many new un<g ref="char:EOLhyphen"/>heard of ways in Religion, and all the several parties crying out to the people, Lo here is Christ; Thousands of the people con<g ref="char:EOLhyphen"/>clude, there is nothing certain in Religion, and neglect all.</p>
+               <p n="7">7. To deter you from separa<g ref="char:EOLhyphen"/>ting from the Parish Churches, to come at a purer communion, let me put you in mind of a con<g ref="char:EOLhyphen"/>siderable saying of Mr. <hi>Baxters</hi> to the old Separatists,<note place="margin">
+                     <hi>Baxter,</hi> Ep to Separat. Congr.</note>
+                  <q>It is very remarkable, saith he, that it is a pretence of our impurity, and a greater purity with you, that is pleaded by those that first turn over to you. And that this
+<pb n="94" facs="tcp:50003:54"/>height of all Impieties, saith he, should be the usual issue of a way pretended so exact and clean; doubtless it is none of Gods mind by this to discou<g ref="char:EOLhyphen"/>rage any from purity and true Reformation, but to shew his detestation of that spiritual pride, which maketh men have too high thoughts of them<g ref="char:EOLhyphen"/>selves, and too much to con<g ref="char:EOLhyphen"/>temn others, and to desire to be further separated from them, than God in the day of grace doth allow of. Consider this, 'tis the judgement of some, that thousands are gone to Hell, and ten thousands upon their march thither, that in all probability had never come there, if they had not been tempted from the Parish Churches, for the enjoy<g ref="char:EOLhyphen"/>ment of communion in a purer Church.</q>
+               </p>
+            </div>
+            <div n="11" type="argument">
+               <pb n="95" facs="tcp:50003:54"/>
+               <head>
+                  <hi>Argument XI.</hi> The Parish Churches <hi>now,</hi> are not as they were in the times when Presbyterians cryed out of gathering Churches out of them: Therefore their sayings to the Separatists <hi>then,</hi> ought not to be reflected on, and urged against their practise now; for these reasons,
+<list>
+                     <item>
+                        <hi>1.</hi> Be<g ref="char:EOLhyphen"/>cause the Parish Churches <hi>then,</hi> imposed nothing upon the Minister or people contra<g ref="char:EOLhyphen"/>ry to the word of God, <hi>now they do.</hi>
+                     </item>
+                     <item>
+                        <hi>2.</hi> Because the Parish Churches then were reformable, now they have co<g ref="char:EOLhyphen"/>venanted against Reformati<g ref="char:EOLhyphen"/>on.</item>
+                     <pb n="96" facs="tcp:50003:55"/>
+                     <item>
+                        <hi>3.</hi> The Parish Churches then had proper Pastors, that had the power of the keys of Government, not so now.</item>
+                     <item>
+                        <hi>4.</hi> Because in the Parish Churches now, the Presbyte<g ref="char:EOLhyphen"/>rian Ministers are forbidden to preach, and the people to have the Sacrament, or their children to be baptized, un<g ref="char:EOLhyphen"/>less they will say and do such things as they dare not do, for fear of Gods displeasure. The Parish Churches then drove none such away from Ministry and Communion.</item>
+                  </list>
+               </head>
+               <div n="1" type="insinuation">
+                  <pb n="97" facs="tcp:50003:55"/>
+                  <head>
+                     <hi>Insinuation I.</hi> 'Tis insinuated, the Parish Churches in Presbyterian days, imposed no<g ref="char:EOLhyphen"/>thing contrary to the Word of God, either upon Minister or people, but now they do.</head>
+                  <p n="1">1. THe Parish Churches can<g ref="char:EOLhyphen"/>not justly be charged with imposing any thing at all, <label type="milestone">
+                        <seg type="milestoneunit">Answ. </seg>
+                     </label> either upon Minister or people, much less imposing any thing contrary to the Word of God; because they stand in the capacity of Subjects, not Le<g ref="char:EOLhyphen"/>gislators.</p>
+                  <p n="2">2. <hi>WHAT</hi> is it that is imposed? <hi>First,</hi> upon the <hi>Parish CHURCH MEMBERS,</hi> contrary to the Word of God, there is not any one thing instanced in,<note place="margin">
+                        <hi>Baxters</hi> D<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>fence of the prin<g ref="char:EOLhyphen"/>ciples of love, <hi>p</hi> 38.</note> and it is ju<g ref="char:EOLhyphen"/>dged impossible for any one to prove <hi>one such</hi> thing. Mr. <hi>Baxter</hi> com<g ref="char:EOLhyphen"/>municateth with some of the Pa<g ref="char:EOLhyphen"/>rish
+<pb n="98" facs="tcp:50003:56"/>Churches, both in the Word, Prayer and Sacrament of the Lords Supper; and telleth us, that divers Learned Nonconformist Ministers in 1663. at a Conference con<g ref="char:EOLhyphen"/>cluded it lawful so to do: Which they would never have done, if they had thought any thing imposed on private persons contrary to the Word of God.</p>
+                  <p n="3">3. Now concerning the <hi>PARISH MINISTERS,</hi> what is imposed on them contrary to the Word of God, the Objector doth not instance in any one thing. The Conforming Ministers themselves think no such thing of the Impositions upon them; if they did, in charity we are bound to believe they would never con<g ref="char:EOLhyphen"/>form to them, knowing multitudes of them as tender conscienced as any, by their general course of life.</p>
+                  <p n="4">4. Let it be seriously considered, in the fear of God, whether the Parish Ministers and Churches in
+<pb n="99" facs="tcp:50003:56"/>1643 taking the Scotch Covenant to root out the Government establish<g ref="char:EOLhyphen"/>ed by Law, confirmed by many Acts of Parliament, and contrary to the Kings publick Declaration of his dislike of it, and prohibition of his Subjects to take it: Whether did not this act, render the state of the Parish Ministers and Churches, more obnoxious to exception, as to the point of communion with them, than any thing can be urged against the Parish Churches and Ministers <hi>now,</hi> that live in charity among themselves, and in obedience to their Governors and Laws, especially con<g ref="char:EOLhyphen"/>sidering multitudes of the Parish Ministers themselves, that ventured upon this dangerous Oath, were first under the Oath of Allegiance to the King, the Oath of Supremacy, and the Oath of Canonical obedience to the Bishops.</p>
+               </div>
+               <div n="2" type="insinuation">
+                  <pb n="100" facs="tcp:50003:57"/>
+                  <head>
+                     <hi>Insinuation II.</hi> The Parish Churches in Presbyterian dayes were reformable in that wherin they needed Reformation; But now they have covenanted a<g ref="char:EOLhyphen"/>gainst Reformation.</head>
+                  <p n="1">1. TRue, <label type="milestone">
+                        <seg type="milestoneunit">Answ. </seg>
+                     </label> the Parish Churches <hi>then</hi> wanted Reformation, but never like to be reformed in the Presbyterian way to the end of the world.
+<list>
+                        <item>1. Because the Indepen<g ref="char:EOLhyphen"/>dents, men of great fame and inte<g ref="char:EOLhyphen"/>rest, all manner of wayes obstructed it.</item>
+                        <item>2. Because Presbyterian Exa<g ref="char:EOLhyphen"/>mination by a new sort of Church-Officers,<note place="margin">Parliam. Declar. <hi>April</hi> 17. 1646.</note> called Lay Elders, before receiving the Lords Supper, was <hi>intolerable</hi> to the people.</item>
+                        <item>3. Be<g ref="char:EOLhyphen"/>cause the Parliament would never be brought to grant the Presbyteries that power which they thought ne<g ref="char:EOLhyphen"/>cessary to go through with the work: For which reasons the work
+<pb n="101" facs="tcp:50003:57"/>never proceeded to any purpose, nor never like to proceed to the end of the world.</item>
+                     </list> So that in a hurry the old Government was pulled down, and none ever after like to be set up in the room of it, but every man left to do what is right in his own eyes. So that as King <hi>James</hi> his Aphorism proved true, <hi>No Bishop no King;</hi> so this also, <hi>No Bishop in</hi> England, <hi>no national Church Govern<g ref="char:EOLhyphen"/>ment in</hi> England.</p>
+                  <p n="2">2. Whereas it is insinuated that the Parish Churches have covenan<g ref="char:EOLhyphen"/>ted against Reformation, and not to say when and wherein, is un<g ref="char:EOLhyphen"/>doubtedly to insinuate hard things against the Parish Churches, and upon very hard terms. They know no such thing.</p>
+                  <p n="3">3. We know no Covenant a<g ref="char:EOLhyphen"/>gainst Reformation that ever was propounded by the Churches, much less taken to them. The people of the Parish Churches are under no
+<pb n="102" facs="tcp:50003:58"/>other Covenant now than they were in Presbyterian dayes, that any body knoweth of.</p>
+                  <p n="4">4. 'Tis true, the <hi>Ministers</hi> in the Long Parliament dayes, having been so unhappy, as by Sermons in the the Pulpits, and Speeches at <hi>Guild-hall,</hi> to have too great a hand in the wars; and having bound themselves by an oath to persevere in their endeavours to root out Pre<g ref="char:EOLhyphen"/>lacy, which the present Parliament hath thought fit to restore; and the King also to take an Oath at his Co<g ref="char:EOLhyphen"/>ronation to maintain, as his Ance<g ref="char:EOLhyphen"/>stors had done before him: The King and Parliament since their Re<g ref="char:EOLhyphen"/>storation, have not thought fit to admit any man into the Publick Mi<g ref="char:EOLhyphen"/>nistry, without first giving securi<g ref="char:EOLhyphen"/>ty for his keeping the peace both in the Church and State for the fu<g ref="char:EOLhyphen"/>ture, that we may have no more such bloody wars, neither Ecclesi<g ref="char:EOLhyphen"/>astical nor Civil. This is the true
+<pb n="103" facs="tcp:50003:58"/>meaning of all the Ministers cove<g ref="char:EOLhyphen"/>nanting that now enter into the Ministry, and the only occasion of all the extraordinary Impositions upon them.</p>
+                  <p>Now in my humble opinion, the late Publick Ministers Instead of quarrelling with Superiors for these new Impositions, should rather quarrel with themselves, for giving so great and so just an occasion for them: And if they would agree to publish their Retractations and Re<g ref="char:EOLhyphen"/>pentances, as Mr. <hi>Baxter</hi> hath gi<g ref="char:EOLhyphen"/>ven them an Example,<note place="margin">
+                        <hi>Baxters</hi> second ad<g ref="char:EOLhyphen"/>monition to <hi>Bag<g ref="char:EOLhyphen"/>shaw.</hi> p. 51, 52.</note> there would be little need of continuing these fetters any longer.</p>
+                  <p>Now as for the present Parish Mi<g ref="char:EOLhyphen"/>nisters, in what they do when they enter the Ministry; they are so far from thinking they covenant against Reformation, that they think they co<g ref="char:EOLhyphen"/>venant only against Schism, Sedition, &amp; Rebellion. But whether they think right, or whether they think wrong,
+<pb n="104" facs="tcp:50003:59"/>what is this to the poor Parish Churches? do the Parish Curches deserve to be demolisht, and cut in<g ref="char:EOLhyphen"/>to shreds for this, which bad service separation doth them; as Mr. <hi>Bax<g ref="char:EOLhyphen"/>ter</hi> and the <hi>London</hi> Ministers, and the reason of the thing telleth us.</p>
+               </div>
+               <div n="3" type="insinuation">
+                  <head>
+                     <hi>Insinuation III.</hi> The Pastors of the Parish Churches in the Presbyterian dayes had the Power of the Keys of Government: 'Tis not so now: They were true Churches, and did own themselves for such.</head>
+                  <p n="1">1. THe Parish Churches were then, <label type="milestone">
+                        <seg type="milestoneunit">Answ. </seg>
+                     </label> no doubt, true Chur<g ref="char:EOLhyphen"/>ches; and so they are now as well as then. They did own themselves for such <hi>then,</hi> and so they do <hi>now;</hi> and will be owned by all Protestants for such, except Brownists and Ana<g ref="char:EOLhyphen"/>baptists. Herein there is no diffe<g ref="char:EOLhyphen"/>rence
+<pb n="105" facs="tcp:50003:59"/>at all between the Parish Churches <hi>then</hi> and <hi>now.</hi> Mr. <hi>Bax<g ref="char:EOLhyphen"/>ter</hi> himself owneth the Parish Churches <hi>now</hi> for true Churches, by holding full Communion with them, and exhorting others to do so too; and for their encourage<g ref="char:EOLhyphen"/>ment insinuateth the terms of Communion to Lay persons to be more acceptable <hi>now</hi> than in the dayes of former Bishops; and therefore in his judgment there can be no such difference in the state of the Parish Churches <hi>then</hi> and <hi>now,</hi> as to justify separation from them.</p>
+                  <p>
+                     <hi>Object.</hi> But the Pastors in the Presbyterian dayes had the power of the <hi>Keys</hi> of <hi>Government:</hi> not so <hi>now.</hi>
+                  </p>
+                  <p>
+                     <hi>Answ</hi> 1. This cannot be truly said of the Pastors of the Parish Churches, That they have no power of the Keys. The Law calleth them Rectors; and in Ordination the Keys are committed to them. And by
+<pb n="106" facs="tcp:50003:60"/>the Rubrick and Canons every Pa<g ref="char:EOLhyphen"/>rish Pastor is commanded to use the Keys of Government, by sus<g ref="char:EOLhyphen"/>pending scandalous persons from the Lords Supper; so that they sin if they do not govern: Yea 'tis plain, the Parish Pastor doth exercise a true spiritual Government over the Flock, as the Captain doth in sight when he goeth before his Souldiers and leadeth them on and off. He governeth them by a Pastoral Go<g ref="char:EOLhyphen"/>vernment while he guideth them in Doctrine, Prayer, and Sacraments. Every Parish Minister participa<g ref="char:EOLhyphen"/>teth of the three Offices of Christ, <hi>Kingly, Prieslly,</hi> and <hi>Prophetical;</hi> and every Parish Church is a true Political Society: That which can<g ref="char:EOLhyphen"/>not be said of any Independent Church in the world. The Parish Churches have <hi>pars regens,</hi> and <hi>pars subdita,</hi> so can no Indepen<g ref="char:EOLhyphen"/>dent Church say, because of their popular Government, which ma<g ref="char:EOLhyphen"/>keth
+<pb n="107" facs="tcp:50003:60"/>them rather take the name of <hi>Lumps</hi> than <hi>Bodies.</hi>
+                  </p>
+                  <p>And though every Minister par<g ref="char:EOLhyphen"/>ticipate of the three Offices of Christ, the exercise may be so di<g ref="char:EOLhyphen"/>stributed among the Pastors in a fixed Ecclesiastical state, that one shall do more of the Teaching part, another more of the Ruling part, upon grounds of prudence, yet the ruling part is not wholly taken out of their hands. This is the case of our Parish Pastors; and the truth is, the Law for carrying the rug<g ref="char:EOLhyphen"/>ged part of discipline out of the hands of the particular Pastor, into a Court established by Law for that purpose, ought not to be reckoned a degrading of the Pastor of one part of his Office, but a regulating them rather for the general good in the execution of their Office: it ta<g ref="char:EOLhyphen"/>keth off a load of envy from the particular Pastor, which otherwise would lye upon him, if he should
+<pb n="108" facs="tcp:50003:61"/>have the sole management of so di<g ref="char:EOLhyphen"/>stastful a work.</p>
+                  <p n="2">2. If it be well considered, you may perhaps conclude, that the par<g ref="char:EOLhyphen"/>ticular Pastors have as much power of the Keys of Government as is for the general good: That particular Pastors should have a power to de<g ref="char:EOLhyphen"/>prive members of choice spiritual priviledges, without controul if they do amiss, were Tyranny rather than Government. <hi>Calvin</hi> concludeth thus: <q>I never thought it useful, saith he, to commit the power of <hi>Excommunication</hi> to every Pastor: for it is an <hi>odious</hi> thing, and an ex<g ref="char:EOLhyphen"/>ample not to be approved,<note place="margin">Calv. Ep. ad Gasp. à Lizetum.</note> and which would soon slip into Ty<g ref="char:EOLhyphen"/>ranny.</q>
+                  </p>
+                  <p n="3">3. <q>Discipline, saith Mr. <hi>Herle,</hi> so liable to <hi>contempt,</hi> needs the help of <hi>Majesty, Authority, Reverence</hi> to make it terrible as an Army with Banners.</q> Now the poverty of <hi>Purse, Parts,</hi> and <hi>Youth</hi> of the great<g ref="char:EOLhyphen"/>est
+<pb n="109" facs="tcp:50003:61"/>part of Parish Pastors, to say nothing of the unruly passions, and undue prejudices, that private per<g ref="char:EOLhyphen"/>sons are subject too on the one hand, and the <hi>age, stubbornness, wealth, ho<g ref="char:EOLhyphen"/>nour, learning</hi> and <hi>parts</hi> of many of the people, who yet deserve disci<g ref="char:EOLhyphen"/>pline, on the other hand, make dis<g ref="char:EOLhyphen"/>cipline with honour and success ut<g ref="char:EOLhyphen"/>terly impracticable by most parti<g ref="char:EOLhyphen"/>cular Pastors in <hi>England.</hi> 'Tis therefore remarkable that when the Brethren had got the Keys by vio<g ref="char:EOLhyphen"/>lence out of the hands of the Bishops into their own, neither Presbyteri<g ref="char:EOLhyphen"/>ans nor Independents knew what to do with them, but to lay them by them; they have either totally neg<g ref="char:EOLhyphen"/>lected to use them, which was ge<g ref="char:EOLhyphen"/>nerally the case of almost all the Presbyterians in <hi>England,</hi> or else fallen under the temptations of throwing them into the Body of the common people, which all Congre<g ref="char:EOLhyphen"/>gational men do.</p>
+                  <p n="4">
+                     <pb n="110" facs="tcp:50003:62"/> 4. To come close then; If the Pa<g ref="char:EOLhyphen"/>rish Pastors in Presbyterians days had the Keys of Government,<note place="margin">
+                        <hi>Baxter,</hi> preface to Reformed Pastor.</note> what were the Churches <hi>then</hi> the better, if they never used them? they generally settled in the neglect of them, and not only so, but argued against the use of them (at that time) as if all things considered it were better to let them alone,<note place="margin">R<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>fo<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d Pastor, <hi>p.</hi> 218, 222.</note> wich Mr. <hi>Baxter</hi> lamentably complaineth of, and sharply reproveth in these words: <q>Will you wait till you are dead, and leave it as a part of your Epi<g ref="char:EOLhyphen"/>taph to posterity, that you so deep<g ref="char:EOLhyphen"/>ly engaged,<note place="margin">
+                           <hi>p.</hi> 221.</note> and <hi>contended</hi> for that which you so abhorred to the death, that you would never be brought to the practice of it?</q> He telleth them the people had seen their Government in Paper, but not in Actions; that they had heard them talk much of <hi>Government,</hi> but had never seen the thing: and ask<g ref="char:EOLhyphen"/>eth his brethren whether they can
+<pb n="112" facs="tcp:50003:62"/>think that the people will be satisfi<g ref="char:EOLhyphen"/>ed with the empty sound of the word <hi>CHURCH GOVERNMENT?</hi> with abundance more to this effect.</p>
+                  <p>If it be thus, the Parish Chur<g ref="char:EOLhyphen"/>ches <hi>then</hi> were in no better condi<g ref="char:EOLhyphen"/>tion in this respect then ours now; nor so good neither: And if sepa<g ref="char:EOLhyphen"/>ration by gathering Churches out of them were a sin <hi>then,</hi> 'tis so now. And here by the way, let the Bre<g ref="char:EOLhyphen"/>thren think,
+<list>
+                        <item>1. What work they have made for Repentance and Re<g ref="char:EOLhyphen"/>stitution, that rashly swore to root out their lawful Governors the Bi<g ref="char:EOLhyphen"/>shops, and did it, both in respect of their dignities and properties, to come at <hi>Discipline;</hi> And when they had done, were forced to feed the people with two words, <hi>Government</hi> and <hi>Discipline;</hi> but could not let them see the things, because in truth, they found it impracticable in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> in the Presbyterian way, which the Episcopal party was always
+<pb n="112" facs="tcp:50003:63"/>wont to say.</item>
+                        <item>2. The Brethren, in all reason and good conscience, ought to accept of a sober Admo<g ref="char:EOLhyphen"/>nition, to refrain their present pra<g ref="char:EOLhyphen"/>ctise of gathering Churches out of the Parish Churches, to come at Discipline; because upon tryal it hath once already proved a deceit<g ref="char:EOLhyphen"/>ful pretence.</item>
+                     </list>
+                  </p>
+                  <p n="5">5. Our new Separatists from the Parish Churches for want of disci<g ref="char:EOLhyphen"/>pline, are far more unlike to use dis<g ref="char:EOLhyphen"/>cipline <hi>NOW,</hi> than ever they were, when they so neglected it; because then they were not under hatches as now.<note place="margin">
+                        <hi>Baxters</hi> Cure, <hi>p.</hi> 393.</note> Their maintenance then was not precarious as now. And Mr. <hi>Baxter</hi> lately hath told us plainly, That the people of the new Separa<g ref="char:EOLhyphen"/>tion, instead of being ruled by their Pastors, they so much rule their Pa<g ref="char:EOLhyphen"/>stors, that many of them have been forced to forsake their own judge<g ref="char:EOLhyphen"/>ments, to comply with the violent. What liklihood then is there of ex<g ref="char:EOLhyphen"/>ercising
+<pb n="113" facs="tcp:50003:63"/>discipline, upon such a head<g ref="char:EOLhyphen"/>strong unruly multitude?</p>
+                  <p n="6">6. And lastly, let the Brethren weigh, what one of the most Learned Presbyterians hath said, and they will never separate up<g ref="char:EOLhyphen"/>on this account:</p>
+                  <p>If the higher powers will not admit of such a form,<note place="margin">Second discourse of the Re<g ref="char:EOLhyphen"/>ligion of <hi>England.</hi> p. 41.</note> this may sa<g ref="char:EOLhyphen"/>tisfie the Subjects conscience, that Ecclesiastical Government is ne<g ref="char:EOLhyphen"/>cessarily more directed and order<g ref="char:EOLhyphen"/>ed in the exercise thereof, by the determination of the Civil Ma<g ref="char:EOLhyphen"/>gistrate, in places where the true Religion is maintained, than where persecuted: They that have received the power, must answer to God for it: They that are discharged from it, shall ne<g ref="char:EOLhyphen"/>ver answer for that of which they are bereaved.</p>
+               </div>
+               <div n="4" type="insinuation">
+                  <pb n="114" facs="tcp:50003:64"/>
+                  <head>
+                     <hi>Insinuation 4.</hi> The Presbyterian Ministers are for<g ref="char:EOLhyphen"/>bidden to preach, and the people to have the Sacraments, or their children to be baptized, unless they will say and do such things as they dare not do, for fear of displeasing God: But in the Prebsyterian days, the Parish Churches then drove none such away from Mini<g ref="char:EOLhyphen"/>stry and Communion.</head>
+                  <p n="1">1. THe Parish Churches do not own themselves to stand Independent, <label type="milestone">
+                        <seg type="milestoneunit">Answ. </seg>
+                     </label> and to have the power of making Laws for Minister and people within them<g ref="char:EOLhyphen"/>selves: They therefore bid nor forbid any thing relating either to Minister or people, but ac<g ref="char:EOLhyphen"/>cording to the direction of the Law-givers.</p>
+                  <p>The plain truth is this, the
+<pb n="115" facs="tcp:50003:64"/>Presbyterian Ministers not ac<g ref="char:EOLhyphen"/>cepting the terms of the publick Establishment, become silenced by the <hi>LAWS,</hi> not the <hi>People</hi> of the Parish Churches, who are sorry at their hearts, that the Ministers ever gave the Supreme Authority cause to make such se<g ref="char:EOLhyphen"/>vere Laws, and many of them are sorry that ever there were any such Laws made.</p>
+                  <p n="2">2. Though the Presbyterian Ministers are not there, the same Gospel is preached there by others; no Papists, but Prote<g ref="char:EOLhyphen"/>stants, of the same Christian Faith and Religion, and approved by Authority.</p>
+                  <p n="3">3. As fast as any of the Pres<g ref="char:EOLhyphen"/>byterians become convinced of the lawfulness of submitting to the publick Laws, and desire imployment in the Church, they are embraced, as many have done, and some of them of the most
+<pb n="116" facs="tcp:50003:65"/>Learned, Pious and Judicious amongst them.</p>
+                  <p n="4">4. If any remain unsatisfied, and by that means unimployed, doth it therefore follow, that 'tis lawful to cut the Church into shreds by Separation, and demo<g ref="char:EOLhyphen"/>lish it, as Mr. <hi>Baxter</hi> saith Sepa<g ref="char:EOLhyphen"/>ration doth?</p>
+                  <p n="5">5. The old Nonconformists complain'd bitterly of some of their company in their days, that having leap'd out of the Surplice, they could not keep them from leaping out of the Church too, by separation into distinct Con<g ref="char:EOLhyphen"/>gregations.</p>
+                  <p>But the most sober of them did distinguish between bare non<g ref="char:EOLhyphen"/>conformity to every thing done in the Parishes, and gathering Chur<g ref="char:EOLhyphen"/>ches out of them into distinct Congregations, under a distinct Government. They were as great enemies to this practise as any,
+<pb n="117" facs="tcp:50003:65"/>as appeareth by their writings against the old Separatists:<note place="margin">Mr. <hi>Rath<g ref="char:EOLhyphen"/>band,</hi> Ans. to <hi>Barrow</hi>
+                     </note> They distinguish between Separation <hi>In</hi> the Church, by purging it; and Separation <hi>From</hi> the Church, by departing from it.</p>
+                  <p n="6">6. Whereas 'tis said, <hi>In the Presbyterian days, the Parish Churches drove none such away from Ministry and Communion, that through fear of displeasing God, durst not conform to the way of the Parish Churches.</hi> To this it is answered,</p>
+                  <p n="1">1. The Parish Churches then set up <hi>Lay-Elders;</hi> concluded them Church Officers by divine Law; suffered no man to receive the Lords Supper, that would not be examined by them; which drove people from the Sacrament, that they never received it all their life after. And Mr. <hi>Baxter</hi> saith, Setting up Lay-Elders was a piece of Superstition.</p>
+                  <p n="2">2. Suppose the Parish Churches
+<pb n="118" facs="tcp:50003:66"/>drove none away, the governing power did then drive many ex<g ref="char:EOLhyphen"/>cellent Ministers and Scholars, both out of their Ministry and Livings too, by Sequestrations, and into Goals and Prisons, to the utter ruine of thousands, for not taking the Scotch Covenant, and such like obligations, which they could no more do with a good conscience, than cut their neighbours throat. 3. The Inde<g ref="char:EOLhyphen"/>pendents on the other hand, durst not conform to the Presby<g ref="char:EOLhyphen"/>terian way, for fear of displea<g ref="char:EOLhyphen"/>sing God, that's plain, in that they reckon their own way to be <hi>Jure Divino:</hi> But for all that, the Presbyterians did not think it fit to gratifie their erronious con<g ref="char:EOLhyphen"/>sciences so far, as to suffer them to gather Churches out of the Parish Churches, into distinct Congregations, if they could have got power to hinder it.
+<pb n="119" facs="tcp:50003:66"/>They did what they could to hinder it, they fasted, prayed, and writ against it: <q>Indepen<g ref="char:EOLhyphen"/>dency a great Schism,</q> saith Mr. <hi>Cawdrey:</hi> They Romonstrate and petition the Parliament a-against it: They preach Sermon after Sermon to the Parliament, crying out of it, and thirsted for power to suppress it.</p>
+                  <p n="3">3. 'Tis well known, the most solid of the Presbyterians are for the National Church way;<note place="margin">
+                        <hi>Jus divin. Minister. Anglic.</hi> Divine Right of of Pres<g ref="char:EOLhyphen"/>bytery.</note> they are for a governing Church over all the particular Churches and Ministers, and as much for order and uniformity to publick Eccle<g ref="char:EOLhyphen"/>siastical Laws, as any, and as severe upon the point of order, and far more, than ever the Bi<g ref="char:EOLhyphen"/>shops were. The Presbyterians by principle, are so far from suf<g ref="char:EOLhyphen"/>fering Dissenters from their Pa<g ref="char:EOLhyphen"/>rish Churches, to gather Churches out of them, into distinct Con<g ref="char:EOLhyphen"/>gregations,
+<pb n="120" facs="tcp:50003:67"/>gregations, under a distinct Go<g ref="char:EOLhyphen"/>vernment, that the Scotch Mini<g ref="char:EOLhyphen"/>sters cannot endure so much as the meeting of divers families to<g ref="char:EOLhyphen"/>gether, for family worship among them; and give this reason for it, That it tendeth to the prejudice of the publick Ministry, and Schism in the Church; and there<g ref="char:EOLhyphen"/>fore give this in charge,<note place="margin">Scot<gap reason="illegible: faint" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> preface to the Assembly Catechis.</note>
+                     <hi>At fa<g ref="char:EOLhyphen"/>mily Worship, a special care is to be bad,</hi> say they, <hi>that each family keep by themselves.</hi> This counsel of theirs our Presbyterian Assem<g ref="char:EOLhyphen"/>bly thought fit to prefix before their larger Catechism; which sheweth they approved it. I have now answered the four Insinua<g ref="char:EOLhyphen"/>tions of difference, between the state of the Parish Churches now, and their state in Presby<g ref="char:EOLhyphen"/>terian days: And by what I have said, I conceive it appeareth evi<g ref="char:EOLhyphen"/>dently, that there is no substan<g ref="char:EOLhyphen"/>tial difference between the state
+<pb n="121" facs="tcp:50003:67"/>of the Parish Churches now, and their state in the long Parliament days, wherefore to justifie their separation from them: so that whatever the Presbyterians said <hi>then,</hi> of the <hi>Schism</hi> and sin of ga<g ref="char:EOLhyphen"/>thering Churches out of the Pa<g ref="char:EOLhyphen"/>rish Churches, will fall <hi>heavy</hi> up<g ref="char:EOLhyphen"/>on themselves, if they shall do, as others did before them; nay far heavier, because the state of the Parish Churches in <hi>England,</hi> since the Re-establishment of Episcopacy, hath been much bet<g ref="char:EOLhyphen"/>ter than before <hi>in many respects:</hi> Because,
+<list>
+                        <item>1. Now we have cause to hope, there are not many Pa<g ref="char:EOLhyphen"/>rish Churches (though the means be small) but the means of saving faith and knowledge are there; because there is the holy Scrip<g ref="char:EOLhyphen"/>tures read, there is the Prayers of the Church, there is the Ar<g ref="char:EOLhyphen"/>ticles of Faith, the Lords Prayer, the Creed, the Ten Command<g ref="char:EOLhyphen"/>ments,
+<pb n="122" facs="tcp:50003:68"/>Psalms, Sacraments and Homilies, if not other Sermons: But in the long Parliament days, after the Bishops and Liturgy were gone, now generally in the places of very small means, the Church doors have been shut up, and, as is said, all publick wor<g ref="char:EOLhyphen"/>ship of God, for a considerable time together ceased, and the peo<g ref="char:EOLhyphen"/>ple delivered up as a prey to all sorts of Hereticks and Deceivers.</item>
+                        <item>2. In the best places, the loss of the <hi>Liturgy</hi> was undoubtedly a great loss to the Church, because it condescendeth to the weakness of the weak, which the <hi>ex tempo<g ref="char:EOLhyphen"/>re</hi> prayers of most Ministers doth not; and then too, because of the unruly passions, prejudices, errors and other infirmities of Ministers of divided parties, the disuse of the Lords Prayer, the non-repeat<g ref="char:EOLhyphen"/>ing of the <hi>Creed, Ten Command<g ref="char:EOLhyphen"/>ments,</hi> the not calling the people
+<pb n="123" facs="tcp:50003:68"/>to make publick Confession of their faith, the slighting of In<g ref="char:EOLhyphen"/>fant Baptism, the total neglect of the Sacrament of the Lords Supper in many places, rendred the state of the Parish Churches deplorable then.</item>
+                     </list> But now by the advantage of a publick Establish<g ref="char:EOLhyphen"/>ment, the Parish Churches are every day growing into a better condition. What then will be the sin and evil of those men, that instead of repenting of for<g ref="char:EOLhyphen"/>mer rashnesses, will <hi>set their hand again to the same Church ruining Work?</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="12" type="argument">
+               <pb n="124" facs="tcp:50003:69"/>
+               <head>
+                  <hi>Argument XII.</hi> We must distinguish between tole<g ref="char:EOLhyphen"/>rable and intolerable Mini<g ref="char:EOLhyphen"/>sters. In some of the Parish Churches the Minister is in<g ref="char:EOLhyphen"/>tolerable, and not fit to be a Minister; and for this cause 'tis lawful to gather Churches.</head>
+               <p n="1">1. WHat think you of <hi>Hoph<g ref="char:EOLhyphen"/>ni</hi> and <hi>Phineas,</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>
+                  </label> the two sons of <hi>Eli,</hi> they were for their prophaneness intolerable Mini<g ref="char:EOLhyphen"/>sters: They were sons of <hi>Belial,</hi> that knew not the Lord, and yet no separation from them as Priests, justifiable. The people that began to abhor the Ordi<g ref="char:EOLhyphen"/>nances upon their account, are called transgressors, 1 <hi>Sam.</hi> 2.24.
+<pb n="125" facs="tcp:50003:69"/>as hath been noted once before: so that though they were intole<g ref="char:EOLhyphen"/>rable before God, as to their own persons, and therefore ought to have been excluded: They were tolerable before the Church, as to Church Administration, so long as they enjoyed the Priests Office, and not legally ejected. What think you of the Scribes and Pharisees, that <hi>said</hi> and <hi>did</hi> not, whose conversation Christ himself telleth us was a perfect contradiction to their doctrine: surely such are intolerable Mini<g ref="char:EOLhyphen"/>sters before God; but as to the peoples communicating with such in Church Administrations, they were tolerable; for Christ com<g ref="char:EOLhyphen"/>mandeth his own Disciples to communicate with them, <hi>Matth.</hi> 23.2. the reason is this, because order must be kept, and the bles<g ref="char:EOLhyphen"/>sing of Ordinances dependeth not upon the goodness of the
+<pb n="126" facs="tcp:50003:70"/>Administrators, but the blessing of the Institutor.<note place="margin">Church. Govern<g ref="char:EOLhyphen"/>ment, <hi>p.</hi> 131.</note>
+                  <q>In one word, saith Mr. <hi>Baxter,</hi> the Church is bound to take many a man as a true Minister to them, and re<g ref="char:EOLhyphen"/>ceive the Ordinances from him in faith and expectation of a blessing, upon promise, who yet before God is a sinful Inva<g ref="char:EOLhyphen"/>der, an Usuper of the Ministry, and shall be condemned for it.</q>
+               </p>
+               <p>But 2. By the Ecclesiastical Law, no man entreth the Mini<g ref="char:EOLhyphen"/>stry in the Church of <hi>England,</hi> whose abilities are not first try<g ref="char:EOLhyphen"/>ed by Learned men, able to judge of mens fitness, who subscribe not to the Book of Articles, and of whose holy and sober conver<g ref="char:EOLhyphen"/>sation, satisfaction is not first re<g ref="char:EOLhyphen"/>ceived. In case any Minister prove otherwise, and become in tolera<g ref="char:EOLhyphen"/>ble, the people ought not to <hi>right</hi> themselves by Separation, but in <hi>a legal way,</hi> by the assistance of
+<pb n="127" facs="tcp:50003:70"/>lawful Authority; because other<g ref="char:EOLhyphen"/>wise, if the people once get head, break loose from the reins of Go<g ref="char:EOLhyphen"/>vernment, and turn Reformers, the remedy, in respect of the publick, will be worse than the disease, to a particular Parish. 'Tis to despise Government, break order, introduce Anarchy, the mentable consequence whereof, <hi>England</hi> hath found by woful ex<g ref="char:EOLhyphen"/>perience, and 'tis to be wished it may be a warning to all English Subjects for the future, to take heed of all disorderly motions and proceedings.</p>
+               <p n="3">3. Intolerable Ministers, whe<g ref="char:EOLhyphen"/>ther by heresie or prophaneness, on complaint made, and suffici<g ref="char:EOLhyphen"/>ent proof, cannot continue in their places, and therefore there will be no need of Separation upon this account. The Bishops lately have turned out divers for scandal, and are very severe in
+<pb n="128" facs="tcp:50003:71"/>the point, and resolve to be more so.</p>
+               <p n="4">4. The common people, ex<g ref="char:EOLhyphen"/>cept in some notorious case of debauchery and prophaness, are no competent Judges who are tolerable, and who are intolera<g ref="char:EOLhyphen"/>ble; but less able to judge now than ever, because upon disturb<g ref="char:EOLhyphen"/>ing our fixed state Ecclesiastical, and breaking the hedge of Go<g ref="char:EOLhyphen"/>vernment, a Serpent hath bit us, I mean, the Devil took his op<g ref="char:EOLhyphen"/>portunity, and fill'd the Nation with Hereticks and Impostors, so that the peoples heads are fill'd with odd notions, mad opi<g ref="char:EOLhyphen"/>nions, and hair-brain'd fancies, all over <hi>England.</hi> Mr. <hi>Edwards</hi> telleth us, that in a short time 180 errours <hi>appeared amongst us:</hi> Mr. <hi>Case</hi> telleth the Parliament, That the <hi>errours in the Bishops days, were but tolerable trifles, but now,</hi> saith he, <hi>the Nation is filled
+<pb n="129" facs="tcp:50003:71"/>with doctrines of Devils.</hi>
+                  <note place="margin">In an E<g ref="char:EOLhyphen"/>pist. to Mr. <hi>Pools</hi> Book for the Deity of the Holy Ghost 1660.</note> To this effect, Mr. <hi>Pool,</hi> Mr. <hi>Cranford,</hi> and Mr. <hi>Manton</hi> tell us, that in the Bishops days, <hi>Errours walk<g ref="char:EOLhyphen"/>ed in the dark: But now, say they,</hi> cum privilegio, <hi>for the more speedy cor<g ref="char:EOLhyphen"/>rupting the people.</hi> Sixty and odd Ministers of the City of <hi>London,</hi> joyn in an Exhortation to their people, and tell them, that hor<g ref="char:EOLhyphen"/>rid and hideous errours had for some years past abounded a<g ref="char:EOLhyphen"/>mongst us against Scriptures, Dei<g ref="char:EOLhyphen"/>ty of Christ, Holy Ghost, Trinity, Immortality of the Soul, Resur<g ref="char:EOLhyphen"/>rection of the dead, Heaven and Hell, decrying and abusing Or<g ref="char:EOLhyphen"/>dinances, as so many empty forms; that the truths of Chri<g ref="char:EOLhyphen"/>stianity were in danger of being buried under the heap and rub<g ref="char:EOLhyphen"/>bish of all sorts of errours: This the Church got by turning out the Bishops. Now whilst the Na<g ref="char:EOLhyphen"/>tion is thus infected, 'tis impossi<g ref="char:EOLhyphen"/>ble
+<pb n="130" facs="tcp:50003:72"/>the common people should be able to make judgement of the tolerableness or intolerableness of Ministers: Persons will now be judged tolerable or intolerable, not according to the reason of the thing, but as they either hit or miss particular <hi>by</hi> opinions ta<g ref="char:EOLhyphen"/>ken up by divided parties.</p>
+               <p n="5">5. If it be the duty of every individual member of the Church, to sit in judgement of the tole<g ref="char:EOLhyphen"/>rableness and intolerableness of the legal Ministers; and if judg<g ref="char:EOLhyphen"/>ed intolerable, then to separate into a new Church, what can fol<g ref="char:EOLhyphen"/>low upon this practise, but Sepa<g ref="char:EOLhyphen"/>ration upon Separation to the end of the world, and that from one end of the Nation to the other? For there is no man, though never so worthy, but by some silly and erroneous persons will be thought intolerable. In my humble opinion, instead of feed<g ref="char:EOLhyphen"/>ing
+<pb n="131" facs="tcp:50003:72"/>the wanton humour of Sepa<g ref="char:EOLhyphen"/>ration, by such Insinuations as these, it were better for the poor people to hear the wise counsel of <hi>Solomon,</hi> against self-confi<g ref="char:EOLhyphen"/>dence, <hi>Prov.</hi> 3.6. and <hi>Paul</hi> the Apostles counsel to the Church members at <hi>Rome,</hi> against self-conceit, <hi>Rom.</hi> 12.16. and that every man would think soberly of himself: it were better for the common people to hear of mo<g ref="char:EOLhyphen"/>desty, poverty of Spirit, the du<g ref="char:EOLhyphen"/>ty of humility, and how impro<g ref="char:EOLhyphen"/>bable it is for them to make so true and so good a judgement for themselves, as their lawful Go<g ref="char:EOLhyphen"/>vernors, in such a settled Church as ours is, than to be supposed able and fit to judge their Mini<g ref="char:EOLhyphen"/>sters and Judges. 'Tis impossible we should ever be happy, till the people have learn'd to think more meanly of themselves, and more honorably of their Gover<g ref="char:EOLhyphen"/>nors,
+<pb n="132" facs="tcp:50003:73"/>as Mr. <hi>Baxter</hi> hath often told us.</p>
+            </div>
+            <div n="13" type="argument">
+               <head>
+                  <hi>Argument XIII.</hi> Some Parish Churches about <hi>London</hi> are grown too nu<g ref="char:EOLhyphen"/>merous, that all cannot come to the Parish Churches; there<g ref="char:EOLhyphen"/>fore, <hi>&amp;c.</hi>
+               </head>
+               <p n="1">1. WHere lieth the reason of the practical infe<g ref="char:EOLhyphen"/>rence of the Brethren, from these premises: Some Parish Churches about <hi>London,</hi> cannot contain their members; There<g ref="char:EOLhyphen"/>fore Nonconformists may law<g ref="char:EOLhyphen"/>fully gather Churches all <hi>Eng<g ref="char:EOLhyphen"/>land</hi> over. 'Tis well known, they that gather Churches out of the Parish Churches, have no regard
+<pb n="133" facs="tcp:50003:73"/>to any of these circumstances, but gather them out of the Pa<g ref="char:EOLhyphen"/>rish Churches, and practise the Sacraments among them where ever they are: And by some it is observed, that for the most part they gather Churches in great Cities where there is no need.</p>
+               <p n="2">2. Where the case of any Pa<g ref="char:EOLhyphen"/>rish is such, the people should be taught to remonstrate their case to lawful Authority, that Tabernacles may be built, as hath been in divers places in the City, since the sire, till a way can be found for building more Churches or Chappels, and also to appoint them some pious, peaceable, orthodox Ministers to officiate; which would be pre<g ref="char:EOLhyphen"/>sently granted. This is God sway, because orderly: The other way is tumultuous, and tendeth to sedition, and to practise without
+<pb n="134" facs="tcp:50003:74"/>all reverence of Authority, and as if we did not look upon our selves as members of an esta<g ref="char:EOLhyphen"/>blish'd Church, but as a com<g ref="char:EOLhyphen"/>pany of scattered Christians in a Pagan Country.</p>
+               <p n="3">3. Till Tabernacles can be built, there are neighbouring Churches capable of more than their own Parishes, to which they may resort.</p>
+               <p n="4">4. The Parish Churches now that are so numerous, were so too when Presbyterians cryed out of gathering Churches out of the Parish Churches by the In<g ref="char:EOLhyphen"/>dependents: Besides the Plague in 1665. hath destroyed many thousands since; therefore this is no Argument to justifie Sepa<g ref="char:EOLhyphen"/>tion now, no more than it wa<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in those days.</p>
+            </div>
+            <div n="14" type="argument">
+               <pb n="135" facs="tcp:50003:74"/>
+               <head>
+                  <hi>Argument XIV.</hi> That the Conformists in the pub<g ref="char:EOLhyphen"/>lick Temples are not enough to preach to the people, and defend them from Popery: Non-Conformists therefore ought to help, and 'tis their duty, though they gather Churches: And the Parish bounds are not of Divine In<g ref="char:EOLhyphen"/>stitution.</head>
+               <p n="1">1. WHether the publick Mi<g ref="char:EOLhyphen"/>nisters be enough to carry on the publick Services, <label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>
+                  </label> or not enough, is a matter proper for for the consideration and judgement of the governing Church, into whose hands the Law hath put such trusts; not
+<pb n="136" facs="tcp:50003:75"/>proper for private persons, fur<g ref="char:EOLhyphen"/>ther than to remonstrate and pe<g ref="char:EOLhyphen"/>tition: If private persons shall presume to make themselves Judges in matters of publick cog<g ref="char:EOLhyphen"/>nizance, and practise upon their own judgement, contrary to the publick Laws, in such a settled Church as the Church of <hi>England</hi> is: 'Tis impossible for such persons to pass without cen<g ref="char:EOLhyphen"/>sure of turbulent. Mr. <hi>(awdr)</hi> telleth Dr. <hi>Owen</hi> of a case like this,<note place="margin">Indepen<g ref="char:EOLhyphen"/>dency a great Schism, <hi>p.</hi> 190.</note> and saith, <q>'Tis an Anabap<g ref="char:EOLhyphen"/>tistical <hi>Munster</hi>-principle at the bottom.</q>
+               </p>
+               <p n="2">2. Whereas 'tis said, the Pa<g ref="char:EOLhyphen"/>rish bounds are not of <hi>divine In<g ref="char:EOLhyphen"/>stitution.</hi> I answer, 'Tis true they are not of <hi>divine Institution</hi> (in <hi>to<g ref="char:EOLhyphen"/>tidem verbis</hi>) they are no where particularly instituted in the New Testament: But they are of divine Institution, as the Laws of Nature are divine, and as
+<pb n="137" facs="tcp:50003:75"/>they are contained in the gene<g ref="char:EOLhyphen"/>ral Rules of the Word, where there are no particular Rules in the case, 1 <hi>Cor.</hi> 14. <hi>Let all things be done decently, orderly, and for edification:</hi> Which is impossible to do in such a great Nation of Christian Professors as <hi>England</hi> is, if the whole be not put into parts, under particular Pastors; as the General of an Army put<g ref="char:EOLhyphen"/>teth his Souldiers: and also if the parts offer to break their Ranks, and refuse to keep their proper places and stations ap<g ref="char:EOLhyphen"/>pointed by Authority: As they do with a witness, that forsaking their own <hi>Minister</hi> and Neigh<g ref="char:EOLhyphen"/>bourhood, to whose conduct and communion Gods Providence and the Laws of the Land have committed them, take the bold<g ref="char:EOLhyphen"/>ness to settle themselves in a stated way of Church Commu<g ref="char:EOLhyphen"/>nion with others, scattered here
+<pb n="138" facs="tcp:50003:76"/>and there, without any regard to Governors or the Government.</p>
+               <p n="3">3. Whereas 'tis said, the peo<g ref="char:EOLhyphen"/>ple want the help of more Mini<g ref="char:EOLhyphen"/>sters than Conformists, to de<g ref="char:EOLhyphen"/>fend them from Popery, and for this Nonconformists may gather Churches:</p>
+               <p>
+                  <hi>Answ.</hi> 1. This Separation Mr. <hi>Baxter</hi> and the <hi>London</hi> Ministers tell us, scattereth the Mem<g ref="char:EOLhyphen"/>bers, and cutteth the Church in<g ref="char:EOLhyphen"/>to shreds; what offence or de<g ref="char:EOLhyphen"/>fence can the Church in such a shattered condition, make against an Adversary? The strength of a Church in every Nation, as well as an Army, lieth in the union of the whole into one body, with some governing Church power over the whole: By virtue of which union, the whole, in all the parts become capable of the succouring influences of the <hi>whole,</hi> and without which union it is
+<pb n="139" facs="tcp:50003:76"/>impossible: These things are evi<g ref="char:EOLhyphen"/>dent by the light of Nature, and the <hi>safety</hi> of the whole is con<g ref="char:EOLhyphen"/>cerned in the orderly motion of the parts, in their several places and stations: For a Nonconfor<g ref="char:EOLhyphen"/>mist then to the publick Esta<g ref="char:EOLhyphen"/>blishment, to presume to ga<g ref="char:EOLhyphen"/>ther Churches out of the Parish Churches, what doth he but in<g ref="char:EOLhyphen"/>troduce Anarchy, and overthrow all Church Government? which to do, is not to save the people from Popery, but to betray them to it.</p>
+               <p>In this I say nothing, but ac<g ref="char:EOLhyphen"/>cording to the sense of most judi<g ref="char:EOLhyphen"/>cious Presbyterian. In his se<g ref="char:EOLhyphen"/>cond Disourse of the Religion of <hi>England,</hi> p. 44. speaking of the con<g ref="char:EOLhyphen"/>siderate Nonconformist, he saith, <q>They would rather help to bear up the present Ecclesiasti<g ref="char:EOLhyphen"/>cal ☜ state, than that <hi>Popery</hi> should break in by Anarchy, or the the dissolution of all Church
+<pb n="140" facs="tcp:50003:77"/>☞ Government.</q> Again, <q>An am<g ref="char:EOLhyphen"/>ple fixed state Ecclesiastical, is necessary to uphold and increase the Religion, as well against in<g ref="char:EOLhyphen"/>fidelity, as against <hi>Popery.</hi>
+                  </q> So that in the judgement of this Learned Author, to disturb our fix'd state Ecclesiastical, which is done with a witness by disorderly gather<g ref="char:EOLhyphen"/>ing Churches, and running into parties: This is the way to bring in Popery, and not to keep it out.</p>
+               <p n="4">4. To scatter the Parish Churches by Separation, is so far from affording help against Popery, that 'tis notoriously to prosecute the Jesuites designs and councils for the reducing us to Popery, which is to do all they can to keep the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> everlastingly in an unfixed state; there being nothing they dread so much, as our getting into order again: <q>Our founda<g ref="char:EOLhyphen"/>tion
+<pb n="141" facs="tcp:50003:77"/>saith one of them,<note place="margin">Prins In<g ref="char:EOLhyphen"/>troduct. p. <hi>89.</hi>
+                     </note> must be mutation, this will cause a relaxation, which serveth as so many violent diseases, as the Stone, Gout, to the speedy de<g ref="char:EOLhyphen"/>struction, <hi>&amp;c.</hi>
+                  </q>
+               </p>
+               <p>Again,<note place="margin">Read Mr. <hi>Baxters</hi> Key for Catho<g ref="char:EOLhyphen"/>licks, <hi>p.</hi> 318.</note>
+                  <q>If the Puritans get the day, we shall make great ad<g ref="char:EOLhyphen"/>vantage of it; for they will be unsettled, and all in pieces, and not know how to settle the Go<g ref="char:EOLhyphen"/>vernment.</q>
+               </p>
+               <p>Again, <q>Factions and distracti<g ref="char:EOLhyphen"/>ons give us footing for continu<g ref="char:EOLhyphen"/>al attempts. To make all sure, we will secretly have our party among the Puritans also, that we may be sure to maintain our interest, which way ever the world go.</q>
+               </p>
+               <p>
+                  <note place="margin">Second Book of Politicks.</note>
+                  <q>Cherish their dissentions, saith <hi>Adam Contren</hi> the Jesuite, speak<g ref="char:EOLhyphen"/>ing of Protestants, and when all men see, there is nothing certain among them, the people
+<pb n="142" facs="tcp:50003:78"/>will easily yield, meaning to Popery.</q>
+                  <note place="margin">The last Directi<g ref="char:EOLhyphen"/>on.</note> To this purpose Mr. <hi>Bax<g ref="char:EOLhyphen"/>ter</hi> telleth us, <q>that in a disguise they thrust themselves into all Sects and parties, not only Ana<g ref="char:EOLhyphen"/>baptists, and Independents are animated by them, but they ani<g ref="char:EOLhyphen"/>mate the Vanists, Behmenists, and other Enthusiasts,<note place="margin">Key for Catho<g ref="char:EOLhyphen"/>licks, 3<gap reason="illegible: faint" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>.</note> the Seek<g ref="char:EOLhyphen"/>ers, the Quakers, the Origenists, and all the Juglers and hiders of the times.</q>
+               </p>
+               <p>How then can it be advisable for us, by multiplying separate Meetings from the Parish Chur<g ref="char:EOLhyphen"/>ches, to make still more Recepta<g ref="char:EOLhyphen"/>cles for the Jesuites to play their pranks in.</p>
+               <p n="5">5. And lastly, There are not very many Ministers that are fit to meddle much in the Popish Controversies, either by dispu<g ref="char:EOLhyphen"/>ting or preaching, especially in the private Meetings, that are so full of distractions and odd opi<g ref="char:EOLhyphen"/>nions.
+<pb n="143" facs="tcp:50003:78"/>There is nothing pleaseth a Learned Jesuite better, than to hear some of the private Meeting Ministers, undertake to dispute or preach against Po<g ref="char:EOLhyphen"/>pery; because the most of them having more Confidence than Learning, and more heat than light, they will either mistake the question, or else through ig<g ref="char:EOLhyphen"/>norance or prejudice, call that Popery which is not, or else charge them with that they are not guilty of, or at best make a weak defence: So that the Ad<g ref="char:EOLhyphen"/>versary rather gaineth ground, than loseth by such oppositions.</p>
+               <p>When the Jesuites get into one of the separate Meetings, and hear them cry out of Epis<g ref="char:EOLhyphen"/>copal Government and Ordina<g ref="char:EOLhyphen"/>tion, as Popish and Antichristi<g ref="char:EOLhyphen"/>an, what sport this maketh them, may easily be conceived, for that the Brethren themselves
+<pb n="144" facs="tcp:50003:79"/>are forced to confess that there was no other way of entring the Ministry for many hundred years.<note place="margin">Jus divin. Minister. Angl. p. <hi>3<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi>
+                  </note>
+               </p>
+               <p>Again, At other times to hear the Common-prayer Book reviled for Popish, and the Mi<g ref="char:EOLhyphen"/>nisters maintenance by Tythes Popish, and then the Parish bounds Popish at last, Infant Baptism Popish and Antichri<g ref="char:EOLhyphen"/>stian: I say, it cannot be ima<g ref="char:EOLhyphen"/>gined what pleasure it must be to the Adversary, to find when Popery is opposed, those things are condemned for Popery and Antichristian, which the whole Christian world for many hun<g ref="char:EOLhyphen"/>dreds of years hath owned for unquestionable good things: and by this means, instead of dis<g ref="char:EOLhyphen"/>gracing the Pope, we put ho<g ref="char:EOLhyphen"/>nour upon the Pope, as Mr. <hi>Vines</hi> the learned Presbyterian Mini<g ref="char:EOLhyphen"/>ster once observed and said, <q>At
+<pb n="145" facs="tcp:50003:79"/>this rate, saith he, of counting things Popish and Antichristian, we shall make the Pope and Anti<g ref="char:EOLhyphen"/>christ a brave fellow shortly, by making him the Author of so ma<g ref="char:EOLhyphen"/>ny good things.</q>
+               </p>
+            </div>
+            <div n="16" type="argument">
+               <head>
+                  <hi>Argument XVI.</hi> We are told of separating from the Church of <hi>England,</hi> but we do not know what the Church of <hi>England</hi> is, and why it should not be as well Schism for the Parish Church Members not to frequent the Private Churches, as for the private Separate Churches not to frequent them, we know not.</head>
+               <p n="1">1. OUr <hi>New</hi> Non-conformists are it seemeth come very
+<pb n="146" facs="tcp:50003:80"/>near shaking hands with the old Brownists:<note place="margin">Barrow, G<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eenwood</note> They indeed could not tell what the Church of <hi>England</hi> was, but the Old Non-conformists could tell; for notwithstanding their Nonconformity, they owned the <hi>Church of England</hi> still to be a True Church, in the same sense with the Conformists; as appear<g ref="char:EOLhyphen"/>eth by their Book against <hi>Barrow</hi> and others wherein they say thus; <q>The Church of <hi>England</hi> is a <hi>True Church of Christ,</hi>
+                     <note place="margin">Mr. <hi>Rath<g ref="char:EOLhyphen"/>band</hi> every page.</note> and such a one as whosoever wittingly and wil<g ref="char:EOLhyphen"/>lingly separateth himself, cutteth himself from Christ.</q> They reckon their Ordination by Bishops valid, the Oath of Canonical Obedience to them lawful; their Suspensions and Deprivations (if according to the Law of the Land) to be yielded to.</p>
+               <p>So long as the Bishops suspend and deprive according to the Law of the Land,<note place="margin">Pag. 41.</note>
+                  <q>We account of the action herein (say they) as the Act
+<pb n="147" facs="tcp:50003:80"/>of the Church, which we may and ought to reverence and yield un<g ref="char:EOLhyphen"/>to.</q>
+               </p>
+               <p>The <hi>London</hi> Ministers also when they writ their Book called,<note place="margin">Jus divi<g ref="char:EOLhyphen"/>num p. <hi>14.</hi> Ministerii.</note>
+                  <hi>The Di<g ref="char:EOLhyphen"/>vine Right of the Ministry,</hi> they did not think the Church of <hi>England</hi> such a strange thing, neither in name nor thing. They argue thus: If all the Churches in the world are called One Church, let no man be offended if all the Congregations in <hi>England</hi> be called <hi>The Church of England.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> But now it is made a que<g ref="char:EOLhyphen"/>stion what is the <hi>Church of England?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> 1. Upon this occasion, I would by the way admonish all ho<g ref="char:EOLhyphen"/>nest men to take heed of entertain<g ref="char:EOLhyphen"/>ing the <hi>first scruples</hi> of conformity to the Church of <hi>England,</hi> because men know not what will become of their scruples, nor where to make an end of them, to the unspeaka<g ref="char:EOLhyphen"/>ble damage of the Church and
+<pb n="148" facs="tcp:50003:81"/>themselves, and of the great interest of Christian Religion in the main; insomuch that if the question were put since the Reformation, What fruit of them, it must be answered, <hi>None,</hi> but such whereof we are a<g ref="char:EOLhyphen"/>shamed, even the lamentable decay of the moral part of Religion, strain<g ref="char:EOLhyphen"/>ing at gnats, and swallowing ca<g ref="char:EOLhyphen"/>mels. This by the by.</p>
+               <p>Now for answer to the question.</p>
+               <p>
+                  <hi>Q.</hi> What is the Church of <hi>Eng<g ref="char:EOLhyphen"/>land?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> It is a Company of Chri<g ref="char:EOLhyphen"/>stian Professors of faith in Christ, in<g ref="char:EOLhyphen"/>habiting the <hi>English</hi> Nation, under one Civil Government by the Laws united into one Ecclesiastical Society (though parted into many Congre<g ref="char:EOLhyphen"/>gations) under a publick Ministe<g ref="char:EOLhyphen"/>rial Church-governing power over the whole, called the National Sy<g ref="char:EOLhyphen"/>nod under the highest power. This is the Church of <hi>England.</hi>
+               </p>
+               <p>And it is a true Political Society;
+<pb n="149" facs="tcp:50003:81"/>there is the governing part, and the governed part; and both parts take the name of the Church, as it was in the Jewish Church;<note place="margin">Numb. 35.24. comp. with Joshua 20.4, 5, 6.</note> the govern<g ref="char:EOLhyphen"/>ing part the <hi>Sanhedrin,</hi> as well as the governed part the <hi>People,</hi> both parts take the name of the Church. And as in the Church of <hi>Scotland,</hi> the General Assembly take the name of the Church of <hi>Scotland;</hi> So in <hi>England,</hi> the <hi>Synod</hi> of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> take the name of Church of <hi>England.</hi>
+               </p>
+               <p>And Mr. <hi>Rathband</hi> the old Non<g ref="char:EOLhyphen"/>conformist telleth <hi>Barrow</hi> the Brownist,<note place="margin">
+                     <hi>Mr.</hi> Rath<g ref="char:EOLhyphen"/>band, p. <hi>6.</hi>
+                  </note> who spake slightingly of the Church of <hi>England,</hi> as now the new Separatists do; I say he telleth them, That all the known Churches in the world acknowledge our Church, speaking of the Church of <hi>England</hi> for their Sister. Fur<g ref="char:EOLhyphen"/>ther saith, That never any one Re<g ref="char:EOLhyphen"/>formed Church made question of it, That the womb of the Church
+<pb n="150" facs="tcp:50003:82"/>of <hi>England</hi> bare the Questionists themselves, and that her paps gave them suck, is well known; That it is a Church that hath brought forth and brought up as many learned men and good Christians as any Church in the world. And this hath been acknowledged by the learned men of other Churches.</p>
+               <p>Being thus we are furnished with a true measure for the judging of criminal Schism in <hi>England,</hi> and are helped to answer a new and an odd question; Why it should not as well be called Schism for the Pa<g ref="char:EOLhyphen"/>rish Church Members, not to hold communion with the separate As<g ref="char:EOLhyphen"/>semblies, as it is called Schism in the separate Assemblies to with<g ref="char:EOLhyphen"/>draw from the Parish Churches.</p>
+               <p>The Answer is this, because the Parish Church Members, by keep<g ref="char:EOLhyphen"/>ing to the Parish Churches and Mi<g ref="char:EOLhyphen"/>nistry, they keep the unity of the spirit in the bond of peace; they
+<pb n="151" facs="tcp:50003:82"/>maintain publick charity; they ob<g ref="char:EOLhyphen"/>serve publick order according to the establisht Laws; they keep their ranks and hold their places, where the Law and Right Reason hath fix<g ref="char:EOLhyphen"/>ed them. These are therefore the only regular Assemblies.</p>
+               <p>As for the separate Meetings of Churches gathered out of the Pa<g ref="char:EOLhyphen"/>rish Churches, they are like so ma<g ref="char:EOLhyphen"/>ny Mutineers in an Army, that break all publick order, let go cha<g ref="char:EOLhyphen"/>rity, offer a publick affront to the Laws, disturb our fixed Ecclesiasti<g ref="char:EOLhyphen"/>cal State; and therefore are unlaw<g ref="char:EOLhyphen"/>ful Assemblies, and not to be fre<g ref="char:EOLhyphen"/>quented,<note place="margin">Rom. 16.17.</note> but avoided as the proper makers of division. Neither is it possible for the Brethren that se<g ref="char:EOLhyphen"/>parate upon the terms that they now practise it, to give us any definition of schism, that either themselves heretofore, or the Christian Church did ever account good: but it will stick as close to them as the skin to their flesh.</p>
+               <pb n="152" facs="tcp:50003:83"/>
+               <p>
+                  <hi>Obj.</hi> But if it be objected, as I have heard it hath; They that give the cause make the Schism.</p>
+               <p>
+                  <hi>Ans.</hi> I answer, The Brethren do not distinguish between the occasi<g ref="char:EOLhyphen"/>on of a thing by some <hi>Accident,</hi> and the <hi>Real cause of a thing.</hi> Though it should be granted that Ecclesiasti<g ref="char:EOLhyphen"/>cal Impositions, as conditions of sa<g ref="char:EOLhyphen"/>cramental communion, such as the Cross and Kneeling, through the weakness of people may become an <hi>occasion,</hi> it will never be proved that any Impositions are the <hi>real cause,</hi> except they could be proved to be somewhere or other forbidden in Gods Word, and that as <hi>plainly</hi> as obedience to lawful Authority in lawful things is commanded in Gods Word. This Mr. <hi>Baxter</hi> and many others hath taught us: But for this no man of our new Sepa<g ref="char:EOLhyphen"/>ratists hath ever had the confidence to affirm; so that culpable schism lieth upon all the separate Con<g ref="char:EOLhyphen"/>gregations
+<pb n="153" facs="tcp:50003:83"/>from the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> old and new.</p>
+               <p>
+                  <hi>Obj.</hi> That may be a sin to one man that is not so to another; To him that <hi>thinketh</hi> it a sin to sepa<g ref="char:EOLhyphen"/>rate from the Parish Churches it will be sin, but to <hi>me</hi> it is no sin.</p>
+               <p>
+                  <hi>Ans.</hi> The Text referred to by the Objector concerneth the eating or not eating of <hi>this</hi> or <hi>that</hi> meat, and the observing or not observing <hi>dayes,</hi> actions that in their own na<g ref="char:EOLhyphen"/>ture are neither good nor evil: And in respect of such things, error of conscience in one man will make that unlawful to him that is not so to another.</p>
+               <p>But in respect of things <hi>morally evil,</hi> no error of conscience can make such things <hi>good</hi> to any man which are in themselves <hi>evil.</hi> Theft will be Theft, and Murther will be Murther, and Adultery, A<g ref="char:EOLhyphen"/>dultery; and so Schism will be Schism, in the man that committeth
+<pb n="154" facs="tcp:50003:84"/>these sins: Let any mans private thinking of these things be what it will, no mans error of conscience one way or other can alter the na<g ref="char:EOLhyphen"/>ture either of moral <hi>good</hi> or <hi>evil.</hi>
+               </p>
+            </div>
+            <div n="17" type="argument">
+               <head>
+                  <hi>Argument XVII.</hi> To desert ones Ministry is not law<g ref="char:EOLhyphen"/>ful; 'tis a piece of sacriledge. We cannot preach except we have hearers, we cannot have hearers, but Members of some Parish Churches: Therefore we must gather Churches.</head>
+               <p n="1">1. ST. <hi>Austin</hi> said, <label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>
+                  </label> A man should not commit the least evil of sin to save all the damned from Hell: And St. <hi>Paul</hi> took it for a notorious slander in any man that reported him for one that said men may do
+<pb n="155" facs="tcp:50003:84"/>evil that good may come. A good Christian is bound to do good though evil come to him for it, I mean the evil of affliction. But the the Christian Religion will suffer no man to commit the evil of sin,<note place="margin">Rom. 3.8.</note> that good may come to himself or others by it. Now to gather Churches out of the Parish Churches, with which communion may be held without sin, maketh men guilty of a most horrible Schism, because it is to se<g ref="char:EOLhyphen"/>parate without any sufficient cause: 'Tis to tear and rend a Church to pieces, and cut it into shreds only for personal richer Church-priviledges, or secular ends: 'Tis such a mon<g ref="char:EOLhyphen"/>strous art of uncharitableness, that the new nature loatheth to think of it.</p>
+               <p>Now, that Communion may be held without sin in the Parish Churches, the Brethren acknowledg it. Mr. <hi>Baxter</hi> himself practiseth it,<note place="margin">Cure of Church divisions.</note> and hath writ a Book to perswade
+<pb n="156" facs="tcp:50003:85"/>the Brethren to it; and telleth us at a full meeting, The Ministers a<g ref="char:EOLhyphen"/>greed it lawful and fit.</p>
+               <p>Now I would know then by what good authority this separating pra<g ref="char:EOLhyphen"/>ctise upon these terms can be justifi<g ref="char:EOLhyphen"/>ed from the guilt of the most horri<g ref="char:EOLhyphen"/>ble Schism that ever was heard of in the Christian world.</p>
+               <p>
+                  <hi>Obj.</hi> But saith the Objector, To desert ones Ministry is not lawful, 'tis a point of Sacriledge.</p>
+               <p>
+                  <hi>Ans.</hi> 1. This Argument is easi<g ref="char:EOLhyphen"/>ly answered, by distinguishing up<g ref="char:EOLhyphen"/>on the non-exercise of the Ministe<g ref="char:EOLhyphen"/>rial Office.</p>
+               <p>'Tis one thing voluntarily to de<g ref="char:EOLhyphen"/>sert one Ministry, by running to <hi>an<g ref="char:EOLhyphen"/>nother Calling</hi> for <hi>ease, profit, ho<g ref="char:EOLhyphen"/>nour,</hi> or <hi>fear of persecution.</hi> Ano<g ref="char:EOLhyphen"/>ther thing to suffer suspension of the present exercise of the Ministerial Office, in a particular place, by the Laws of the Christian Church in the Land where a man liveth against
+<pb n="157" facs="tcp:50003:85"/>ones will. These are two things far and widely differing one from another.</p>
+               <p>To do the <hi>first,</hi> is a <hi>Complication</hi> of ma<g ref="char:EOLhyphen"/>ny vices, and is in plainness a wicked Sa<g ref="char:EOLhyphen"/>criledge; and such men are not fit for the Kingdom of God:</p>
+               <p>But the second is the <hi>Illustration</hi> of four Cardinal virtues, <hi>Humility, Meek<g ref="char:EOLhyphen"/>kness, Self-denial, Obedience.</hi> Some of the Virtues all men put off to too great a de<g ref="char:EOLhyphen"/>gree, which they put on separation from the Parish Churches of <hi>England.</hi>
+               </p>
+               <p n="2">2. A man that suffereth suspension of the exercise of his Ministerial Office in a particular place by the Laws of the Land, in a state of the true Religion, doth not de<g ref="char:EOLhyphen"/>sert his Ministerial Office, because his Mi<g ref="char:EOLhyphen"/>nisterial Office relateth in the first place to the <hi>Catholick Church,</hi> in all the Coun<g ref="char:EOLhyphen"/>tries of the world, as the Brethten have always urged against the Independents. So that if a Minister be suspended in one place, he may remove to another.</p>
+               <p>Suspension is not like Excommunicati<g ref="char:EOLhyphen"/>on: If a man be legally excommunicated in one place, his Excommunication (if known) may and ought to be a bar a<g ref="char:EOLhyphen"/>gainst his communion with the Church all over the world, because Excommuni<g ref="char:EOLhyphen"/>cation
+<pb n="158" facs="tcp:50003:86"/>respecteth the Catholick Church, so doth not Suspension. The just reasons of Excommunication are the same all o<g ref="char:EOLhyphen"/>ver the world, which is obstinate persist<g ref="char:EOLhyphen"/>ing in great transgressions of the general Precepts of the Gospel.</p>
+               <p>But Suspensions may be <hi>just</hi> in parti<g ref="char:EOLhyphen"/>cular Countries; not only for crimes, but for <hi>not complying with publick Ecclesiastical Constitutions</hi> for the Government and Dis<g ref="char:EOLhyphen"/>cipline of the Church, and orderly and decent administration of the Ordinances, though through weakness of judgment: The reason is this, because the <hi>good</hi> of <hi>Or<g ref="char:EOLhyphen"/>der</hi> in an establisht Church is greater to the Publick, than the use of particular mens gifts.</p>
+               <p>
+                  <hi>Calvin</hi> saith, <q>Some orderly form ought chiefly to be observed in Churches which are best maintained by a well fram'd dis<g ref="char:EOLhyphen"/>position of all things.<note place="margin">Calvins Instit. p. <hi>402.</hi>
+                     </note>
+                  </q> And further, <q>Be<g ref="char:EOLhyphen"/>cause of the great variety that is in mens <hi>Manners, Minds, Judgments, Wits,</hi> No policy can be stedfast enough, unless it be established by certain Laws.</q> He saith also, <q>There must be an appointed Form, or no orderly usage can be obser<g ref="char:EOLhyphen"/>ved.</q> Further he saith, <q>Without such Laws Churches are dissolved from their
+<pb n="143" facs="tcp:50003:86"/>sinews, and utterly deformed and scattered a<g ref="char:EOLhyphen"/>broad.</q>
+               </p>
+               <p n="3">3. That suspended Ministers in the <hi>English</hi> Church for Non-conformity should acquiesce therein, was the judgment of the old Non-con<g ref="char:EOLhyphen"/>formists. It hath been taken notice of already, <hi>p.</hi> 27. in answer to the Eighth Argument; by which eve<g ref="char:EOLhyphen"/>ry one may take notice how far the present Non<g ref="char:EOLhyphen"/>conformists are departed from the judgments of the old Non-conformists, and gone into the way of Brownists. By the way take notice what a dange<g ref="char:EOLhyphen"/>rous slippery path the path of separation from the Parish Churches is.</p>
+               <p n="4">4. And lastly, To conclude, If there were any thing of sacriledge in the case, it cannot lye upon the Ministers that suffer suspension, because to com<g ref="char:EOLhyphen"/>mit sacriledge, is to be active in a thing, 'tis to be a practiser of the evil of <hi>sin;</hi> But to suffer a legal Suspension is to be <hi>passive,</hi> 'tis to be a sufferer of the evil of <hi>affliction,</hi>
+               </p>
+               <p>If the Church suffer by the non-exercise of the Ministerial Office by suspended Ministers, in reason they must answer for it that make the Laws; but they that by the Laws are bereaved of the oppor<g ref="char:EOLhyphen"/>tunity, need never fear being charged with the duty.</p>
+               <p>I conclude with the Saying of a judicious pious Non-conformist, in a Book called <hi>The Second Dis<g ref="char:EOLhyphen"/>course of the Religion of England, p.</hi> 48.</p>
+               <pb n="160" facs="tcp:50003:87"/>
+               <p>
+                  <q>I do here solemnly profess that I am chiefly solli<g ref="char:EOLhyphen"/>citous for the tranquillity and rest of a troubled Nation;<note place="margin">Second Discourse of the Religion of <hi>England.</hi> p. 48.</note> as for my own concernment, my deprivation is an affliction to me: And I would do any thing that were not sin to me, to recover the liberty of my publick service in the Church: But if it cannot be, I submit to his good pleasure by whose determi<g ref="char:EOLhyphen"/>minate counsel all things are brought to pass; and <hi>am contented to remain a silenced sufferer</hi> for consci<g ref="char:EOLhyphen"/>ence towards God.</q> Note this, That that which the Objector reckoned the sin of wicked sacriledge, this learned Man to the old Non-conformists rec<g ref="char:EOLhyphen"/>koneth to be the duty of Christian patience.</p>
+               <p>Again in another place, touched once before, <q>An ample fixed State Ecclesiastical is necessary to up<g ref="char:EOLhyphen"/>hold and increase true Religion as well against Infidelity as against Popery: The loose part of the world would turn to a weariness, and con<g ref="char:EOLhyphen"/>tempt of divine Institutions: And Christianity it self would be much endangered in a state of <hi>Ataxy</hi> and <hi>Unfixedness.</hi>
+                  </q> By this the Reader may see how the present Church-confounding practice of the Brethren is condemned by one of themselves. In his judgment they are in the way of endanger<g ref="char:EOLhyphen"/>ing, not onely the Protestant Religion in <hi>England,</hi> but Christianity it self.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:50003:87"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
